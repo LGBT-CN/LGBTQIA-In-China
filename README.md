@@ -19,3 +19,4 @@
 > 这将造成一定程度上的隐私泄漏，因为在中国自己的性向仍是一个重大隐私。
 
 - [Scvoet](https://github.com/scvoet)
+- [AyagawaSeirin](https://github.com/AyagawaSeirin)
