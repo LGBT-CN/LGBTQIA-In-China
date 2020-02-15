@@ -22,6 +22,7 @@
 - [Eltrac](https://github.com/BigCoke233)
 - [AyagawaSeirin](https://github.com/AyagawaSeirin)
 - [Broca-Phenol](https://github.com/Broca-Phenol)
+- [Sakitami](https://github.com/Sakitami)
 
 ## 文章
 
