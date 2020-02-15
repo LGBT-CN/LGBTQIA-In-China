@@ -17,6 +17,7 @@
 
 - [Scvoet](https://github.com/scvoet)
 - [Eltrac](https://github.com/BigCoke233)
+- [AyagawaSeirin](https://github.com/AyagawaSeirin)
 
 ## 文章
 
