@@ -78,15 +78,11 @@
 		box-shadow: 0 1px 4px #bababa;
 		color: black;
 		text-decoration: none;
-	}
-	.button-github {
-	    background: #000;
-		color: #fff;
 		transition: .2s;
 	}
 	.button-github:hover {
-	    background: #f1f1f1;
-		color: #000;
+	    background: #000;
+		color: #fff;
 	}
 	
 	/* Equal */
@@ -96,7 +92,7 @@
 		flex-direction: column;
 		justify-content: center;
 		padding: 10px;
-		margin-top: 100px;
+		margin-top: 200px;
 	}
 	.equal-content blockquote {
 	    border-left: 6px solid #bababa;
@@ -108,6 +104,8 @@
 		box-shadow: 0 0 8px #bababa;
 		border-radius: 3px;
 		width: 100%;
+		margin: 30px auto;
+		margin-bottom: 150px;
 	}
 	.devider  {
 	    display: flex
@@ -159,7 +157,7 @@
 	}
 	#support hr {
 	    height: 6px;
-		width: 330px;
+		width: 100%;
 		background: #fff;
 		border: none;
 		margin: 30px 0;
@@ -193,10 +191,7 @@
 		    margin: 0;
 			margin-left: 10px;
 	    }
-	}
-
-    @media (min-width: 992px) {
-	    #equal {
+		#equal {
 	        height: 100vh;
 	        display: flex;
 	    	flex-direction: row;
@@ -206,8 +201,14 @@
 	    }
 		.equal-flag img {
 	        margin: 20px;
-			width: auto;
+			width: 380px;
 		}
+		#support hr {
+		    width: 330px;
+		}
+	}
+
+    @media (min-width: 992px) {
 		#about {
 		    padding: 10px 30px;
 		}
@@ -219,6 +220,9 @@
 		}
 		.footer {
 		    padding: 20px 60px
+		}
+		.equal-flag img {
+		    width: 490px
 		}
 	}
 
@@ -258,7 +262,7 @@
 			</div>
 		  </div>
 		  <div class="equal-flag">
-		    <img src="rainbow-flag.jpg">
+		    <img src="Gay_Pride_Flag.svg">
 		  </div>
 		</div>
 		<!-- about part -->
