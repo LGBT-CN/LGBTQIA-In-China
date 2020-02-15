@@ -4,7 +4,7 @@
 
 本仓库意图在 LGBTQIA 程序员群体中唤起对自由平等的追求，哪怕我们都深知这不会激起浪花。
 
-我写了一个简陋的[网页](https://scvoet.github.io/LGBTIQ-in-China)，上面有彩虹旗和标语。
+我写了一个简陋的[网页](https://scvoet.github.io/LGBTQIA-in-China)，上面有彩虹旗和标语。
 
 ## 参与
 
@@ -27,4 +27,3 @@
 
 | 标题 | 作者 | 原文 | 备份 |
 | -- | -- | -- | -- |
-
