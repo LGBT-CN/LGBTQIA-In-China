@@ -1,10 +1,13 @@
 # LGBTQIA in China
 
+![](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/Love%20is-Love-ff69b4?style=flat-square)
+
 > People were born free and equal. 人们生来是而且始终是自由平等的
 
 本仓库意图在 LGBTQIA 程序员群体中唤起对自由平等的追求，哪怕我们都深知这不会激起浪花。
 
-我写了一个简陋的[网页](https://scvoet.github.io/LGBTQIA-in-China)，上面有彩虹旗和标语。
+你可以访问[这个网站](https://scvoet.github.io/LGBTQIA-in-China)查看更多信息。
 
 ## 参与
 
