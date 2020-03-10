@@ -25,6 +25,7 @@
 - [Sakitami](https://github.com/Sakitami)
 - [Ganxiaozhe](https://github.com/ganxiaozhe)
 - [LemonPrefect](https://github.com/LemonPrefect)
+- [AmemiyaSigure](https://github.com/AmemiyaSigure)
 
 ## 文章
 
