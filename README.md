@@ -26,6 +26,7 @@
 - [LemonPrefect](https://github.com/LemonPrefect)
 - [AmemiyaSigure](https://github.com/AmemiyaSigure)
 - [vandarkhlome](https://github.com/megatontech)
+- [KevinZonda](https://github.com/KevinZonda)
 - [Moooebie](https://github.com/Moooebie)
 
 ## 文章
