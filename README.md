@@ -28,6 +28,7 @@
 - [vandarkhlome](https://github.com/megatontech)
 - [KevinZonda](https://github.com/KevinZonda)
 - [Moooebie](https://github.com/Moooebie)
+- [eternal-flame-AD](https://github.com/eternal-flame-AD)
 
 ## 文章
 
