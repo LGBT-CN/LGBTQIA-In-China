@@ -29,6 +29,7 @@
 - [KevinZonda](https://github.com/KevinZonda)
 - [Moooebie](https://github.com/Moooebie)
 - [eternal-flame-AD](https://github.com/eternal-flame-AD)
+- [kmou424](https://github.com/kmou424)
 
 ## 文章
 
