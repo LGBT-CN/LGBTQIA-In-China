@@ -30,6 +30,7 @@
 - [Moooebie](https://github.com/Moooebie)
 - [eternal-flame-AD](https://github.com/eternal-flame-AD)
 - [kmou424](https://github.com/kmou424)
+- [haig233](https://github.com/haig233)
 
 ## 文章
 
