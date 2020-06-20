@@ -31,6 +31,7 @@
 - [eternal-flame-AD](https://github.com/eternal-flame-AD)
 - [kmou424](https://github.com/kmou424)
 - [haig233](https://github.com/haig233)
+- [TheWanderingCoel](https://github.com/TheWanderingCoel)
 
 ## 文章
 
