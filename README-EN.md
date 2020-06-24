@@ -6,14 +6,14 @@
 
 [简体中文](./README.md) | [English](./README-EN.md)
 
-The intent of this repository is to arouse the quest for freedom and equality in the LGBTQIA community of programmers, even though we know that this will not work.
+The intent of this repository is to arouse the quest for freedom and equality in the LGBTQIA community of programmers, even though we know that this may not work.
 
 You can visit [this site](https://cnlgbt.org) to get more information.
 
 ## Join us
 
 1. Sign in README.md ([Signature](./README.md#署名))
-2. Write an article on China's LGBTQIA community ([Articles](./README.md#文章))
+2. Write an article about Chinese LGBTQIA community ([Articles](./README.md#文章))
 
 ## Signature
 
