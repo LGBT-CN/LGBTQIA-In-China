@@ -1,3 +1,5 @@
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="LGBT-CN logo" src="../logo/LGBTQIA-China.png">
+
 # LGBTQIA in China
 
 [![](https://img.shields.io/badge/Support-LGBTQIA-FF0000?style=flat-square)](https://git.io/JfJiO)
