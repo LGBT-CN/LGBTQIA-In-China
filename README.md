@@ -2,7 +2,9 @@
 
 [![](https://img.shields.io/badge/Support-LGBTQIA-FF0000?style=flat-square)](https://git.io/JfJiO)
 [![](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
-> People were born free and equal. 人们生来是而且始终是自由平等的
+> 人们生来是而且始终是自由平等的
+
+[简体中文](./README.md) | [English](./README-EN.md)
 
 本仓库意图在 LGBTQIA 程序员群体中唤起对自由平等的追求，哪怕我们都深知这不会激起浪花。
 
