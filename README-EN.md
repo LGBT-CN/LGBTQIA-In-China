@@ -12,8 +12,8 @@ You can visit [this site](https://cnlgbt.org) to get more information.
 
 ## Join us
 
-1. Sign in README.md ([Signature]((./README.md#署名))
-2. Write an article on China's LGBTQIA community ([Articles]((./README.md#文章))
+1. Sign in README.md ([Signature](./README.md#署名))
+2. Write an article on China's LGBTQIA community ([Articles](./README.md#文章))
 
 ## Signature
 
