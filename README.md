@@ -36,6 +36,7 @@
 - [kmou424](https://github.com/kmou424)
 - [haig233](https://github.com/haig233)
 - [TheWanderingCoel](https://github.com/TheWanderingCoel)
+- [Borschts](https://t.me/Borschts)
 
 ## 文章
 
