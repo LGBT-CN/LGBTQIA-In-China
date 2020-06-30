@@ -37,6 +37,7 @@
 - [haig233](https://github.com/haig233)
 - [TheWanderingCoel](https://github.com/TheWanderingCoel)
 - [Borschts](https://t.me/Borschts)
+- [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 
 ## 文章
 
