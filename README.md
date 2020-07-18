@@ -39,6 +39,7 @@
 - [Borschts](https://t.me/Borschts)
 - [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 - [InAskr](https://github.com/InAnskr)
+- [Arecyuset](https://github.com/asuszwbUbuntu)
 
 ## 文章
 
