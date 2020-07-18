@@ -38,7 +38,7 @@
 - [TheWanderingCoel](https://github.com/TheWanderingCoel)
 - [Borschts](https://t.me/Borschts)
 - [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
-- [InAskr](htpps://github.com/InAnskr)
+- [InAskr](https://github.com/InAnskr)
 
 ## 文章
 
