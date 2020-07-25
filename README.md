@@ -50,3 +50,5 @@
 | 标题 | 作者 | 原文 | 备份 |
 | -- | -- | -- | -- |
 |跨性别群体诸多权益应得到广泛关注|国务院妇女儿童工作委员会|[原文链接](http://www.nwccw.gov.cn/2018-08/14/content_218467.htm)|[备份链接](/post/跨性别群体诸多权益应得到广泛关注.md)|
+|为什么人们讨厌同性恋|Eltrac Koalar|[原文链接](https://blog.guhub.cn/p/why-hate-homosexuality.html)|[备份链接](/post/why-hate-homosexuality.md)|
+|刻板印象与 LGBT+ 平权|[原文链接](https://blog.guhub.cn/p/lgbt-pride.html)|[备份链接](/post/lgbt-pride-by-eltrac.md)|
