@@ -40,6 +40,7 @@
 - [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 - [InAskr](https://github.com/InAnskr)
 - [Arecyuset](https://github.com/asuszwbUbuntu)
+- [hoochanlon](https://github.com/hoochanlon)
 
 ## 文章
 
