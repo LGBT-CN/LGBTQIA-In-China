@@ -41,6 +41,7 @@
 - [InAskr](https://github.com/InAnskr)
 - [Arecyuset](https://github.com/asuszwbUbuntu)
 - [hoochanlon](https://github.com/hoochanlon)
+- [Panedioic](https://github.com/panedioic)
 
 ## 文章
 
