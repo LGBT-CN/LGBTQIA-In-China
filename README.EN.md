@@ -12,16 +12,16 @@ The intent of this repository is to arouse the quest for freedom and equality in
 
 You can visit [this site](https://cnlgbt.org/english.html) to get more information.
 
-## Join us
+## How to Join Us
 
-1. [Sign](#署名) in SIGN.md;
-2. Write an [article](Articles) about Chinese LGBTQIA community.
+1. [Sign](README.EN.md#Signature) in SIGN.md;
+2. Write an [article](README.EN.md#Articles) about Chinese LGBTQIA community.
 
 ## Signature
 
 > This may create a degree of privacy leakage, as confessing one's sexual orientation, gender identity and gender expression remains a risky activity in China.
 
-You can view [the list of supporters](./README.md#署名) in the original text.
+You can view supporters list in [SIGN.md](SIGN.md#Supporters).
 
 ## Articles
 

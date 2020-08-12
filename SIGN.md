@@ -1,6 +1,8 @@
-Requirement.
+# Requirement
 1. There must be a blank line between each signature;
 2. Don't delete other people's signatures and this prompt.
+
+# Supporters
 
 [Scvoet](https://github.com/scvoet)
 
@@ -44,4 +46,5 @@ Requirement.
 
 [Panedioic](https://github.com/panedioic)
 
-[Zrzjohn](https://github.com/zrzjohn)
+[zrzjohn](https://github.com/zrzjohn)
+
