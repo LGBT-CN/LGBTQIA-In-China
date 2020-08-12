@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="renderer" content="webkit" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
+	<meta http-equiv="Cache-Control" content="no-siteapp" />
+	<meta name="theme-color" content="gray">
+	<meta name="author" content="LGBTQIA-in-China">
+	<meta name="description" content="Chinese LGBTQIA population is eager for freedom and equality
+">
+	<meta name="keywords"
+		content="LGBTQIA LGBT Homosexual gay lesbian transgender intersexual asexual bisexual queer questioning 同性恋 跨性别 双性人 酷儿 双性恋 疑性恋">
+	<title>LGBTQIA in China</title>
+	<link
+		href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:300|Noto+Serif+SC:300|ZCOOL+KuaiLe|ZCOOL+XiaoWei&display=swap"
+		rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/twbs/bootstrap/dist/css/bootstrap-grid.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/alvarotrigo/fullPage.js/dist/fullpage.min.css">
+	<link rel="stylesheet" href="https://at.alicdn.com/t/font_1640253_7ac8t2q6btg.css">
+	<link rel="stylesheet" href="https://at.alicdn.com/t/font_1912611_olza2ei6vv.css">
+	<style>
+		body {
+			background: #EEEEEE;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+			margin: 0;
+			scroll-behavior: smooth;
+		}
+
+		html {
+			scroll-behavior: smooth;
+		}
+
+		/* Navigation (Flex layout) */
+		.nav {
+			display: flex;
+			flex-wrap: nowrap;
+			flex-direction: row;
+			justify-content: center;
+			align-items: center;
+			height: 75px;
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			background: #fff;
+			box-shadow: 0 0 6px #bababa;
+			z-index: 10;
+		}
+
+		.nav-title {
+			margin: 0 !important;
+			padding-left: 35px;
+			display: none;
+		}
+
+		.nav-content {
+			margin-right: 35px;
+			display: flex;
+			justify-content: space-between
+		}
+
+		.nav-content a {
+			color: gray;
+			text-decoration: none;
+			margin: 0 15px;
+		}
+
+		.slideUp {
+			-webkit-transform: translateY(-100px);
+			transform: translateY(-100px);
+			transition: transform .5s ease-out;
+		}
+
+		.slideDown {
+			-webkit-transform: translateY(0);
+			transform: translateY(0);
+			transition: transform .5s ease-out;
+		}
+
+		.button-group {
+			margin-top: 30px;
+		}
+
+		.button {
+			padding: 10px 15px;
+			border: 1px solid #bababa;
+			background: #f1f1f1;
+			border-radius: 38px;
+			box-shadow: 0 1px 4px #bababa;
+			color: black;
+			text-decoration: none;
+			transition: .2s;
+		}
+
+		.button-github:hover {
+			background: #000;
+			color: #fff;
+		}
+
+		.button-telegram:hover {
+			background: #000;
+			color: #fff;
+		}
+
+		.button-margin-right-8px {
+			margin-right: 8px;
+		}
+
+		/* Equal */
+		#equal {
+			height: 100vh;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			padding: 10px;
+			margin-top: 200px;
+		}
+
+		.equal-content blockquote {
+			border-left: 6px solid #bababa;
+			padding-left: 10px;
+			margin-left: 0;
+			color: rgb(40, 40, 40)
+		}
+
+		.equal-flag img {
+			box-shadow: 0 0 8px #bababa;
+			border-radius: 3px;
+			width: 100%;
+			margin: 30px auto;
+			margin-bottom: 150px;
+		}
+
+		.devider {
+			display: flex
+		}
+
+		.devider div {
+			width: 55px;
+			height: 8px;
+			margin: 0;
+			border: none;
+		}
+
+		.devider div#red {
+			background: red;
+		}
+
+		.devider div#orange {
+			background: orange;
+		}
+
+		.devider div#yellow {
+			background: yellow;
+		}
+
+		.devider div#green {
+			background: green;
+		}
+
+		.devider div#blue {
+			background: blue;
+		}
+
+		.devider div#purple {
+			background: purple;
+		}
+
+
+		#about {
+			background: #fff;
+			padding: 10px;
+		}
+
+		#about-title {
+			padding-bottom: 0;
+		}
+
+		#support {
+			background: #000;
+			color: #fff;
+			margin-top: -20px;
+			padding: 10px;
+		}
+
+		#support a {
+			color: rgb(250, 250, 250);
+			text-decoration: none;
+			border-bottom: 1px solid rgb(250, 250, 250)
+		}
+
+		#support hr {
+			height: 6px;
+			width: 100%;
+			background: #fff;
+			border: none;
+			margin: 30px 0;
+		}
+
+		.footer {
+			background: rgb(20, 20, 20);
+			color: #fff;
+			margin: 0;
+			padding: 10px;
+		}
+
+		.footer p {
+			margin: 0;
+		}
+
+		.footer a {
+			color: #fff;
+			text-decoration: none;
+		}
+
+		@media (min-width: 768px) {
+			.nav-title {
+				display: block;
+			}
+
+			.nav {
+				justify-content: space-between;
+			}
+
+			.nav-content {
+				display: block !important;
+			}
+
+			.nav-content a {
+				margin: 0;
+				margin-left: 10px;
+			}
+
+			#equal {
+				height: 100vh;
+				display: flex;
+				flex-direction: row;
+				align-items: center;
+				padding: 10px 60px;
+				margin-top: 0;
+			}
+
+			.equal-flag img {
+				margin: 20px;
+				width: 380px;
+			}
+
+			#support hr {
+				width: 330px;
+			}
+		}
+
+		@media (min-width: 992px) {
+			#about {
+				padding: 10px 30px;
+			}
+
+			.about-section {
+				padding: 30px
+			}
+
+			#support {
+				padding: 10px 60px;
+			}
+
+			.footer {
+				padding: 20px 60px
+			}
+
+			.equal-flag img {
+				width: 490px
+			}
+		}
+
+		@media (min-width: 1200px) {}
+	</style>
+</head>
+
+<body>
+	<nav>
+		<div class="nav" id="nav">
+			<h1 class="nav-title"><i class="iconfont icon-flag"></i> LGBTQIA in China</h1>
+			<div class="nav-content">
+				<a href="#about"><i class="iconfont icon-about"></i> About </a>
+				<a href="#support"><i class="iconfont icon-thumbs-o-up"></i> Support </a>
+				<a>|</a>
+				<a href="index.html">简体中文</a>
+				<a href="traditional-chinese.html">繁體中文</a>
+			</div>
+		</div>
+	</nav>
+	<main>
+		<div id="fullpage">
+			<!-- equal part -->
+			<div class="section" id="equal">
+				<div class="equal-content">
+					<h1 class="main-title">PEOPLE WERE BORN FREE AND EQUAL</h1>
+					<div class="devider">
+						<div id="red"> </div>
+						<div id="orange"> </div>
+						<div id="yellow"> </div>
+						<div id="green"> </div>
+						<div id="blue"> </div>
+						<div id="purple"> </div>
+					</div>
+					<p>The purpose of this project is to arouse LGBTQIA programmers' pursuit of freedom and equality, even if we all know that it will not have a great impact. Whether it is heterosexual, homosexual, bisexual, transgender, heterosexual, bisexual, asexual, everyone is born equal and has equal human rights, which can not be denied.</p>
+					<div class="button-group">
+						<a href="https://github.com/LGBT-CN/LGBTQIA-in-China" class="button button-github button-margin-right-8px"><i 
+							class="iconfont icon-GitHub"></i> GitHub</a>
+						<a href="https://t.me/LGBTCN" class="button button-telegram"><i
+							class="iconfont icon-telegram"></i> Telegram</a>
+					</div>
+				</div>
+				<div class="equal-flag">
+					<img src="flag.svg">
+				</div>
+			</div>
+			<!-- about part -->
+			<div class="section" id="about">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="about-section col-md-12" id="about-title">
+							<h1>About LGBTQIA</h1>
+							<div class="devider">
+								<div id="red"> </div>
+								<div id="orange"> </div>
+								<div id="yellow"> </div>
+								<div id="green"> </div>
+								<div id="blue"> </div>
+								<div id="purple"> </div>
+							</div>
+						</div>
+						<div class="about-section col-md-6" id="about-1">
+							<h2>What is LGBTQIA? </h2>
+							<p><strong>LGBTQIA</strong> is an acronym, which stands for lesbian, gay, bisexual, transgender, questioning, intersexual, asexual, sexual minorities that need to be respected because we are born with it.
+							</p>
+						</div>
+						<div class="about-section col-md-6" id="about-2">
+							<h2>Why was this project established? </h2>
+							<p>Due to Chinese traditional cultural background, LGBTQIA is very unpopular in China and cannot be recognized and respected by others. The purpose of this project is to find LGBTQIA among open-source workers or those who support LGBTQIA's equal rights, so as to improve the situation of LGBTQIA in China from public opinion. Although the impact will not be great, it is better than none.</p>
+						</div>
+						<div class="about-section col-md-6" id="about-3">
+							<h2>Why does LGBTQIA need equal rights?</h2>
+							<p>Because LGBTQIA is a minority, although LGBTQIA is also ordinary people, it can not be denied that we are different from the majority of heterosexuals, and political rights can not be fully protected. Freedom and equality are always the most important in modern society. In China, LGBTQIA has not got real freedom and equality. In order to let such people live a normal life, we need to fight for equal rights.</p>
+						</div>
+						<div class="about-section col-md-6" id="about-4">
+							<h2>How to respect LGBTQIA?</h2>
+							<p>You just need to treat LGBTQIA as ordinary people, just as you respect any friend around you. Remember that LGBTQIA is not a disease in any form, even if you have physiological differences, LGBTQIA is normal. At the same time, LGBTQIA really needs more care than heterosexual, because LGBTQIA often lacks a sense of security and is eager to be recognized.</p>
+						</div>
+					</div>
+					<br><br>
+				</div>
+			</div>
+			<!-- support -->
+			<div class="section" id="support">
+				<h1>Support</h1>
+				<hr>
+				<p>If you support LGBTQIA to get equal rights, welcome to the <strong>README.md</strong> Leave your name in, and click <strong>star</strong> as support! At the same time, you can also write an article about Chinese LGBTQIA, and provide us with the original address and Markdown file (as a backup). As long as the content of the article is related to LGBTQIA or any person in LGBTQIA, we will approve it. The names of all the supporters and the articles they provide are listed in the. <ahref="https://github.com/LGBT-CN/LGBTQIA-in-China/blob/master/README.md">README.md</a>.</p>
+				<p style="color: cadetblue"><i class="iconfont icon-fork"></i> Try to commit by pull requests (please commit the article in <strong>/post</strong>).</p>
+				<p id="sayings"><span style="color:red;font-size: 25px;">❤</span><br>
+					Love is love. We're the same.<br>在爱面前我们都一样。 
+				</p>
+				<br>
+			</div>
+		</div>
+	</main>
+	<footer>
+		<div class="footer">
+			<p>Copyright &copy; 2020 <a href="https://github.com/LGBT-CN/LGBTQIA-in-China"><i
+						class="iconfont icon-flag"></i> LGBTQIA in China</a>, All Rights Reserved.</p>
+		</div>
+		<script>
+			var new_scroll_position = 0;
+			var last_scroll_position;
+			var header = document.getElementById("nav");
+
+			window.addEventListener('scroll', function (e) {
+				last_scroll_position = window.scrollY;
+
+				// Scroll dow
+				if (new_scroll_position < last_scroll_position && last_scroll_position > 80) {
+					header.classList.remove("slideDown");
+					header.classList.add("slideUp");
+
+					// scroll up
+				} else if (new_scroll_position > last_scroll_position) {
+					header.classList.remove("slideUp");
+					header.classList.add("slideDown");
+				}
+
+				new_scroll_position = last_scroll_position;
+			});
+		</script>
+	</footer>
+</body>
+
+</html>
