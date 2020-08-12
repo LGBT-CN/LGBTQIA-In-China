@@ -20,6 +20,7 @@
 ## 署名
 
 > 這將造成壹定程度上的隱私泄漏，因為在中國坦白自己的性取向、性別認同及性別表達仍是個風險較大的行為。
+
 你可以查看[简体中文 Readme ](README.md)中的支持者名单。
 
 ## 文章
@@ -31,5 +32,3 @@
 | 標題 | 作者 | 原文 | 備份 |
 | -- | -- | -- | -- |
 |跨性別群體諸多權益應得到廣泛關註|國務院婦女兒童工作委員會|[原文鏈接](http://www.nwccw.gov.cn/2018-08/14/content_218467.htm)|[備份鏈接](/post/跨性別群體諸多權益應得到廣泛關註.md)|
-|為什麽人們討厭同性戀|[Eltrac Koalar](https://github.com/BigCoke233)|[原文鏈接](https://blog.guhub.cn/p/why-hate-homosexuality.html)|[備份鏈接](/post/why-hate-homosexuality.md)|
-|刻板印象與 LGBT+ 平權|[Eltrac Koalar](https://github.com/BigCoke233)|[原文鏈接](https://blog.guhub.cn/p/lgbt-pride.html)|[備份鏈接](/post/lgbt-pride-by-eltrac.md)|
