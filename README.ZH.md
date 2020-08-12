@@ -20,28 +20,7 @@
 ## 署名
 
 > 這將造成壹定程度上的隱私泄漏，因為在中國坦白自己的性取向、性別認同及性別表達仍是個風險較大的行為。
-
-- [Scvoet](https://github.com/scvoet)
-- [Eltrac](https://github.com/BigCoke233)
-- [AyagawaSeirin](https://github.com/AyagawaSeirin)
-- [Broca-Phenol](https://github.com/Broca-Phenol)
-- [Sakitami](https://github.com/Sakitami)
-- [Ganxiaozhe](https://github.com/ganxiaozhe)
-- [LemonPrefect](https://github.com/LemonPrefect)
-- [AmemiyaSigure](https://github.com/AmemiyaSigure)
-- [vandarkhlome](https://github.com/megatontech)
-- [KevinZonda](https://github.com/KevinZonda)
-- [Moooebie](https://github.com/Moooebie)
-- [eternal-flame-AD](https://github.com/eternal-flame-AD)
-- [kmou424](https://github.com/kmou424)
-- [haig233](https://github.com/haig233)
-- [TheWanderingCoel](https://github.com/TheWanderingCoel)
-- [Borschts](https://t.me/Borschts)
-- [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
-- [InAskr](https://github.com/InAnskr)
-- [Arecyuset](https://github.com/asuszwbUbuntu)
-- [hoochanlon](https://github.com/hoochanlon)
-- [Panedioic](https://github.com/panedioic)
+你可以查看[简体中文 Readme ](README.md)中的支持者名单。
 
 ## 文章
 
