@@ -21,7 +21,7 @@ You can visit [this site](https://cnlgbt.org/english.html) to get more informati
 
 > This may create a degree of privacy leakage, as confessing one's sexual orientation, gender identity and gender expression remains a risky activity in China.
 
-You can view supporters list in [SIGN.md](SIGN.md#Supporters).
+
 
 ## Articles
 

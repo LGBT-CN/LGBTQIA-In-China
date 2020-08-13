@@ -21,7 +21,49 @@
 
 > 这将造成一定程度上的隐私泄漏，因为在中国坦白自己的性取向、性别认同及性别表达仍是个风险较大的行为。
 
-您可以在[SIGN.md](SIGN.md#Supporters)中浏览和创建署名。
+[Scvoet](https://github.com/scvoet)
+
+[Eltrac](https://github.com/BigCoke233)
+
+[AyagawaSeirin](https://github.com/AyagawaSeirin)
+
+[Broca-Phenol](https://github.com/Broca-Phenol)
+
+[Sakitami](https://github.com/Sakitami)
+
+[Ganxiaozhe](https://github.com/ganxiaozhe)
+
+[LemonPrefect](https://github.com/LemonPrefect)
+
+[AmemiyaSigure](https://github.com/AmemiyaSigure)
+
+[vandarkhlome](https://github.com/megatontech)
+
+[KevinZonda](https://github.com/KevinZonda)
+
+[Moooebie](https://github.com/Moooebie)
+
+[eternal-flame-AD](https://github.com/eternal-flame-AD)
+
+[kmou424](https://github.com/kmou424)
+
+[haig233](https://github.com/haig233)
+
+[TheWanderingCoel](https://github.com/TheWanderingCoel)
+
+[Borschts](https://t.me/Borschts)
+
+[KagurazakaHanabi](https://github.com/KagurazakaHanabi)
+
+[InAskr](https://github.com/InAnskr)
+
+[Arecyuset](https://github.com/asuszwbUbuntu)
+
+[hoochanlon](https://github.com/hoochanlon)
+
+[Panedioic](https://github.com/panedioic)
+
+[zrzjohn](https://github.com/zrzjohn)
 
 ## 文章
 
