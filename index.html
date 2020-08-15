@@ -2,409 +2,151 @@
 <html>
 
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta name="renderer" content="webkit" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
-	<meta http-equiv="Cache-Control" content="no-siteapp" />
-	<meta name="theme-color" content="gray">
-	<meta name="author" content="LGBTQIA-in-China">
-	<meta name="description" content="中国的 LGBTQIA 群体十分渴望自由平等">
-	<meta name="keywords"
-		content="LGBTQIA LGBT Homosexual gay lesbian transgender intersexual asexual bisexual queer questioning 同性恋 跨性别 双性人 酷儿 双性恋 疑性恋">
-	<title>LGBTQIA in China</title>
-	<link
-		href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:300|Noto+Serif+SC:300|ZCOOL+KuaiLe|ZCOOL+XiaoWei&display=swap"
-		rel="stylesheet">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/twbs/bootstrap/dist/css/bootstrap-grid.min.css">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/alvarotrigo/fullPage.js/dist/fullpage.min.css">
-	<link rel="stylesheet" href="https://at.alicdn.com/t/font_1640253_7ac8t2q6btg.css">
-	<link rel="stylesheet" href="https://at.alicdn.com/t/font_1912611_olza2ei6vv.css">
-	<style>
-		body {
-			background: #EEEEEE;
-			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-			margin: 0;
-			scroll-behavior: smooth;
-		}
-
-		html {
-			scroll-behavior: smooth;
-		}
-
-		/* 导航（Flex 布局） */
-		.nav {
-			display: flex;
-			flex-wrap: nowrap;
-			flex-direction: row;
-			justify-content: center;
-			align-items: center;
-			height: 75px;
-			position: fixed;
-			top: 0;
-			left: 0;
-			right: 0;
-			background: #fff;
-			box-shadow: 0 0 6px #bababa;
-			z-index: 10;
-		}
-
-		.nav-title {
-			margin: 0 !important;
-			padding-left: 35px;
-			display: none;
-		}
-
-		.nav-content {
-			margin-right: 35px;
-			display: flex;
-			justify-content: space-between
-		}
-
-		.nav-content a {
-			color: gray;
-			text-decoration: none;
-			margin: 0 15px;
-		}
-
-		.slideUp {
-			-webkit-transform: translateY(-100px);
-			transform: translateY(-100px);
-			transition: transform .5s ease-out;
-		}
-
-		.slideDown {
-			-webkit-transform: translateY(0);
-			transform: translateY(0);
-			transition: transform .5s ease-out;
-		}
-
-		.button-group {
-			margin-top: 30px;
-		}
-
-		.button {
-			padding: 10px 15px;
-			border: 1px solid #bababa;
-			background: #f1f1f1;
-			border-radius: 38px;
-			box-shadow: 0 1px 4px #bababa;
-			color: black;
-			text-decoration: none;
-			transition: .2s;
-		}
-
-		.button-github:hover {
-			background: #000;
-			color: #fff;
-		}
-
-		.button-telegram:hover {
-			background: #000;
-			color: #fff;
-		}
-
-		.button-margin-right-8px {
-			margin-right: 8px;
-		}
-
-		/* Equal */
-		#equal {
-			height: 100vh;
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
-			padding: 10px;
-			margin-top: 200px;
-		}
-
-		.equal-content blockquote {
-			border-left: 6px solid #bababa;
-			padding-left: 10px;
-			margin-left: 0;
-			color: rgb(40, 40, 40)
-		}
-
-		.equal-flag img {
-			box-shadow: 0 0 8px #bababa;
-			border-radius: 3px;
-			width: 100%;
-			margin: 30px auto;
-			margin-bottom: 150px;
-		}
-
-		.devider {
-			display: flex
-		}
-
-		.devider div {
-			width: 55px;
-			height: 8px;
-			margin: 0;
-			border: none;
-		}
-
-		.devider div#red {
-			background: red;
-		}
-
-		.devider div#orange {
-			background: orange;
-		}
-
-		.devider div#yellow {
-			background: yellow;
-		}
-
-		.devider div#green {
-			background: green;
-		}
-
-		.devider div#blue {
-			background: blue;
-		}
-
-		.devider div#purple {
-			background: purple;
-		}
-
-
-		#about {
-			background: #fff;
-			padding: 10px;
-		}
-
-		#about-title {
-			padding-bottom: 0;
-		}
-
-		#support {
-			background: #000;
-			color: #fff;
-			margin-top: -20px;
-			padding: 10px;
-		}
-
-		#support a {
-			color: rgb(250, 250, 250);
-			text-decoration: none;
-			border-bottom: 1px solid rgb(250, 250, 250)
-		}
-
-		#support hr {
-			height: 6px;
-			width: 100%;
-			background: #fff;
-			border: none;
-			margin: 30px 0;
-		}
-
-		.footer {
-			background: rgb(20, 20, 20);
-			color: #fff;
-			margin: 0;
-			padding: 10px;
-		}
-
-		.footer p {
-			margin: 0;
-		}
-
-		.footer a {
-			color: #fff;
-			text-decoration: none;
-		}
-
-		@media (min-width: 768px) {
-			.nav-title {
-				display: block;
-			}
-
-			.nav {
-				justify-content: space-between;
-			}
-
-			.nav-content {
-				display: block !important;
-			}
-
-			.nav-content a {
-				margin: 0;
-				margin-left: 10px;
-			}
-
-			#equal {
-				height: 100vh;
-				display: flex;
-				flex-direction: row;
-				align-items: center;
-				padding: 10px 60px;
-				margin-top: 0;
-			}
-
-			.equal-flag img {
-				margin: 20px;
-				width: 380px;
-			}
-
-			#support hr {
-				width: 330px;
-			}
-		}
-
-		@media (min-width: 992px) {
-			#about {
-				padding: 10px 30px;
-			}
-
-			.about-section {
-				padding: 30px
-			}
-
-			#support {
-				padding: 10px 60px;
-			}
-
-			.footer {
-				padding: 20px 60px
-			}
-
-			.equal-flag img {
-				width: 490px
-			}
-		}
-
-		@media (min-width: 1200px) {}
-	</style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="renderer" content="webkit" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta name="theme-color" content="gray">
+    <meta name="author" content="LGBTQIA-in-China">
+    <meta name="description" content="中国的 LGBTQIA 群体十分渴望自由平等">
+    <meta name="keywords"
+        content="LGBTQIA LGBT Homosexual gay lesbian transgender intersexual asexual bisexual queer questioning 同性恋 跨性别 双性人 酷儿 双性恋 疑性恋">
+    <title>LGBTQIA in China</title>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:300|Noto+Serif+SC:300|ZCOOL+KuaiLe|ZCOOL+XiaoWei&display=swap">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/twbs/bootstrap/dist/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/alvarotrigo/fullPage.js/dist/fullpage.min.css">
+    <link rel="stylesheet" href="https://at.alicdn.com/t/font_1640253_7ac8t2q6btg.css">
+    <link rel="stylesheet" href="https://at.alicdn.com/t/font_1912611_olza2ei6vv.css">
+    <link rel="stylesheet" href="static/css/style.css">
 </head>
 
 <body>
-	<nav>
-		<div class="nav" id="nav">
-			<h1 class="nav-title"><i class="iconfont icon-flag"></i> LGBTQIA in China</h1>
-			<div class="nav-content">
-				<a href="#equal"><i class="iconfont icon-Balance"></i> 平权</a>
-				<a href="#about"><i class="iconfont icon-about"></i> 关于</a>
-				<a href="#support"><i class="iconfont icon-thumbs-o-up"></i> 支持</a>
-			</div>
-		</div>
-	</nav>
-	<main>
-		<div id="fullpage">
-			<!-- equal part -->
-			<div class="section" id="equal">
-				<div class="equal-content">
-					<h1 class="main-title">人们生来是而且始终是自由平等的</h1>
-					<div class="devider">
-						<div id="red"> </div>
-						<div id="orange"> </div>
-						<div id="yellow"> </div>
-						<div id="green"> </div>
-						<div id="blue"> </div>
-						<div id="purple"> </div>
-					</div>
-					<blockquote>People were born free and equal.</blockquote>
-					<p>本项目意图在 LGBTQIA
-						程序员群体中唤起对自由平等的追求，哪怕我们都深知这不会激起浪花。无论是异性恋、同性恋、双性恋、跨性别、疑性恋、双性人、无性恋，人人生来就是平等的，拥有平等的人权，这一点无法否认。</p>
-					<div class="button-group">
-						<a href="https://github.com/LGBT-CN/LGBTQIA-in-China" class="button button-github button-margin-right-8px"><i 
-							class="iconfont icon-GitHub"></i> GitHub</a>
-						<a href="https://t.me/LGBTCN" class="button button-telegram"><i
-							class="iconfont icon-telegram"></i> Telegram</a>
-					</div>
-				</div>
-				<div class="equal-flag">
-					<img src="flag.svg">
-				</div>
-			</div>
-			<!-- about part -->
-			<div class="section" id="about">
-				<div class="container-fluid">
-					<div class="row">
-						<div class="about-section col-md-12" id="about-title">
-							<h1>关于 LGBTQIA</h1>
-							<div class="devider">
-								<div id="red"> </div>
-								<div id="orange"> </div>
-								<div id="yellow"> </div>
-								<div id="green"> </div>
-								<div id="blue"> </div>
-								<div id="purple"> </div>
-							</div>
-						</div>
-						<div class="about-section col-md-6" id="about-1">
-							<h2>什么是 LGBTQIA？</h2>
-							<p><strong>LGBTQIA</strong>
-								是一个缩略词，它代表女同性恋（Lesbian）、男同性恋（Gay）、双性恋（Bisexual）、跨性别者（Transgender）、对自身性别认同产生疑惑的人/疑性恋（Questioning）、双性人（Intersexual）、无性恋（Asexual），这类性少数群体需要受到尊重，因为我们生来如此。
-							</p>
-						</div>
-						<div class="about-section col-md-6" id="about-2">
-							<h2>这个项目为什么建立？</h2>
-							<p>由于中国的传统文化背景，LGBTQIA 群体在中国非常不受待见，得不到他人的认可与尊重。建立这个项目是为了在开源工作者中找到 LGBTQIA 群体或是支持 LGBTQIA
-								平权的人们，从舆论上改善 LGBTQIA 群体在中国的状况，尽管这会造成的影响并不大，但总比没有好。</p>
-						</div>
-						<div class="about-section col-md-6" id="about-3">
-							<h2>为什么 LGBTQIA 需要平权？</h2>
-							<p>LGBTQIA 是少数群体，尽管 LGBTQIA
-								也是普通人，但无法否认的是我们也与占多数的异性恋有所不同，政治权利无法受到完整的保障。自由、平等，在现代社会永远都是最重要的，在中国，LGBTQIA
-								并没有得到真正的自由平等，为了让这类群体过上正常的生活，我们需要争取平权。</p>
-						</div>
-						<div class="about-section col-md-6" id="about-4">
-							<h2>如何尊重 LGBTQIA 群体？</h2>
-							<p>就像你尊重你身边的任何一个朋友一样，把 LGBTQIA 们当做普通人。记住 LGBTQIA 不是任何形式上的一种疾病，哪怕你们有生理上的差异，LGBTQIA
-								也是正常人。同时，LGBTQIA 确实也需要比异性恋更多的关怀，因为 LGBTQIA 常常缺乏安全感，并且渴望被认同。</p>
-						</div>
-					</div>
-					<br><br>
-				</div>
-			</div>
-			<!-- support -->
-			<div class="section" id="support">
-				<h1>支持</h1>
-				<hr>
-				<p>如果你支持 LGBTQIA 平权，欢迎在本项目 GitHub 仓库的 README.md 中留下你的名字，并点一个 star 作为支持！同时，你也可以写一篇关于（中国）LGBTQIA
-					群体的文章，将原文地址和 md 文件（作为备份）提供给我们，只要文章内容与 LGBTQIA 相关，或是 LGBTQIA 中的任意一个群体相关，呼吁平权，我们都会通过。</p>
-				<p style="color:gray"><i class="iconfont icon-fork"></i> 尽量以 Pull Requests 的方式提交 commit（文章请提交在 post 目录下）
-				</p>
-				<p>所有支持者的名字和他们提供的文章都可以在 GitHub 仓库下的 <a
-						href="https://github.com/LGBT-CN/LGBTQIA-in-China/blob/master/README.md">README.md</a> 文件中看到。
-				</p>
-				<p id="sayings"><span style="color:red;font-size: 25px;">❤</span><br>
-					Love is love. We're the same.<br>
-					在爱面前我们都一样。
-				</p>
-				<br>
-			</div>
-		</div>
-	</main>
-	<footer>
-		<div class="footer">
-			<p>Copyright &copy; 2020 <a href="https://github.com/LGBT-CN/LGBTQIA-in-China"><i
-						class="iconfont icon-flag"></i> LGBTQIA in China</a>, All Rights Reserved.</p>
-		</div>
-		<script>
-			var new_scroll_position = 0;
-			var last_scroll_position;
-			var header = document.getElementById("nav");
+    <nav>
+        <div class="nav" id="nav">
+            <h1 class="nav-title"><i class="iconfont icon-flag"></i> LGBTQIA in China</h1>
+            <div class="nav-content">
+                <a href="#about"><i class="iconfont icon-about"></i> 关于</a>
+                <a href="#support"><i class="iconfont icon-thumbs-o-up"></i> 支持</a>
+                <a>|</a>
+                <a href="english.html">English</a>
+                <a href="traditional-chinese.html">繁體中文</a>
+            </div>
+        </div>
+    </nav>
+    <main>
+        <div id="fullpage">
+            <!-- equal part -->
+            <div class="section" id="equal">
+                <div class="equal-content">
+                    <h1 class="main-title">人们生来是而且始终是自由平等的</h1>
+                    <div class="devider">
+                        <div id="red"> </div>
+                        <div id="orange"> </div>
+                        <div id="yellow"> </div>
+                        <div id="green"> </div>
+                        <div id="blue"> </div>
+                        <div id="purple"> </div>
+                    </div>
+                    <blockquote>People were born free and equal.</blockquote>
+                    <p>本项目意图在 LGBTQIA
+                        程序员群体中唤起对自由平等的追求，哪怕我们都深知这不会激起浪花。无论是异性恋、同性恋、双性恋、跨性别、疑性恋、双性人、无性恋，人们生来就是平等的，拥有平等的人权，这一点无法否认。</p>
+                    <div class="button-group">
+                        <a href="https://github.com/LGBT-CN/LGBTQIA-in-China" class="button button-github button-margin-right-8px"><i 
+                            class="iconfont icon-GitHub"></i> GitHub</a>
+                        <a href="https://t.me/LGBTCN" class="button button-telegram"><i
+                            class="iconfont icon-telegram"></i> Telegram</a>
+                    </div>
+                </div>
+                <div class="equal-flag">
+                    <img src="static/img/flag.svg">
+                </div>
+            </div>
+            <!-- about part -->
+            <div class="section" id="about">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="about-section col-md-12" id="about-title">
+                            <h1>关于 LGBTQIA</h1>
+                            <div class="devider">
+                                <div id="red"> </div>
+                                <div id="orange"> </div>
+                                <div id="yellow"> </div>
+                                <div id="green"> </div>
+                                <div id="blue"> </div>
+                                <div id="purple"> </div>
+                            </div>
+                        </div>
+                        <div class="about-section col-md-6" id="about-1">
+                            <h2>什么是 LGBTQIA？</h2>
+                            <p><strong>LGBTQIA</strong>
+                                是一个缩略词，它代表女同性恋（Lesbian）、男同性恋（Gay）、双性恋（Bisexual）、跨性别者（Transgender）、对自身性别认同产生疑惑的人/疑性恋（Questioning）、双性人（Intersexual）、无性恋（Asexual），这类性少数群体需要受到尊重，因为我们生来如此。
+                            </p>
+                        </div>
+                        <div class="about-section col-md-6" id="about-2">
+                            <h2>这个项目为什么建立？</h2>
+                            <p>由于中国的传统文化背景，LGBTQIA 群体在中国非常不受待见，得不到他人的认可与尊重。建立这个项目是为了在开源工作者中找到 LGBTQIA 群体或是支持 LGBTQIA
+                                平权的人们，从舆论上改善 LGBTQIA 群体在中国的状况，尽管这会造成的影响并不大，但总比没有好。</p>
+                        </div>
+                        <div class="about-section col-md-6" id="about-3">
+                            <h2>为什么 LGBTQIA 需要平权？</h2>
+                            <p>LGBTQIA 是少数群体，尽管 LGBTQIA
+                                也是普通人，但无法否认的是我们也与占多数的异性恋有所不同，政治权利无法受到完整的保障。自由、平等，在现代社会永远都是最重要的，在中国，LGBTQIA
+                                并没有得到真正的自由平等，为了让这类群体过上正常的生活，我们需要争取平权。</p>
+                        </div>
+                        <div class="about-section col-md-6" id="about-4">
+                            <h2>如何尊重 LGBTQIA 群体？</h2>
+                            <p>就像你尊重你身边的任何一个朋友一样，把 LGBTQIA 们当做普通人。记住 LGBTQIA 不是任何形式上的一种疾病，哪怕你们有生理上的差异，LGBTQIA
+                                也是正常人。同时，LGBTQIA 确实也需要比异性恋更多的关怀，因为 LGBTQIA 常常缺乏安全感，并且渴望被认同。</p>
+                        </div>
+                    </div>
+                    <br><br>
+                </div>
+            </div>
+            <!-- support -->
+            <div class="section" id="support">
+                <h1>支持</h1>
+                <hr>
+                <p>如果你支持 LGBTQIA 平权，欢迎在本项目 <a href="https://github.com/LGBT-CN/LGBTQIA-in-China/">GitHub 仓库</a> 中的 <a href="https://github.com/LGBT-CN/LGBTQIA-in-China/blob/master/README.md">README.md</a> 中留下你的名字，并点一个 Star 作为支持！同时，你也可以写一篇关于中国 LGBTQIA
+                    群体的文章，将原文地址和 Markdown 文件（作为备份）提供给我们，只要文章内容与 LGBTQIA 相关，或是 LGBTQIA 中的任意一个群体相关，呼吁平权，我们都会通过。所有支持者的名字和他们提供的文章都可以在 <a href="https://github.com/LGBT-CN/LGBTQIA-in-China/blob/master/README.md">README.md</a> 文件中看到。</p>
+                <p style="color: cadetblue"><i class="iconfont icon-fork"></i> 尽量以 Pull Requests 的方式提交 Commit（文章请提交在 post 目录下）</p>
+                <p id="sayings"><span style="color:red;font-size: 25px;">❤</span><br>
+                    Love is love. We're the same.<br>
+                    在爱面前我们都一样。
+                </p>
+                <br>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="footer">
+            <p>Copyright &copy; 2020 <a href="https://github.com/LGBT-CN/LGBTQIA-in-China"><i
+                        class="iconfont icon-flag"></i> LGBTQIA in China</a>, All Rights Reserved.</p>
+        </div>
+        <script>
+            var new_scroll_position = 0;
+            var last_scroll_position;
+            var header = document.getElementById("nav");
 
-			window.addEventListener('scroll', function (e) {
-				last_scroll_position = window.scrollY;
+            window.addEventListener('scroll', function (e) {
+                last_scroll_position = window.scrollY;
 
-				// 向下滚动
-				if (new_scroll_position < last_scroll_position && last_scroll_position > 80) {
-					header.classList.remove("slideDown");
-					header.classList.add("slideUp");
+                // 向下滚动
+                if (new_scroll_position < last_scroll_position && last_scroll_position > 80) {
+                    header.classList.remove("slideDown");
+                    header.classList.add("slideUp");
 
-					// 向上滚动
-				} else if (new_scroll_position > last_scroll_position) {
-					header.classList.remove("slideUp");
-					header.classList.add("slideDown");
-				}
+                    // 向上滚动
+                } else if (new_scroll_position > last_scroll_position) {
+                    header.classList.remove("slideUp");
+                    header.classList.add("slideDown");
+                }
 
-				new_scroll_position = last_scroll_position;
-			});
-		</script>
-	</footer>
+                new_scroll_position = last_scroll_position;
+            });
+        </script>
+    </footer>
 </body>
 
 </html>

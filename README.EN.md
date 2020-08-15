@@ -2,20 +2,20 @@
 
 # LGBTQIA in China
 
-[![](https://img.shields.io/badge/Support-LGBTQIA-FF0000?style=flat-square)](https://git.io/JfJiO)
-[![](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
+[![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000?style=flat-square)](https://git.io/JfJiO)
+[![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
 > People were born free and equal.
 
-[简体中文](./README.md) | [English](./README-EN.md)
+[简体中文](README.md) | English | [繁體中文](README.TW.md)
 
 The intent of this repository is to arouse the quest for freedom and equality in the LGBTQIA community of programmers, even though we know that this may not work.
 
-You can visit [this site](https://cnlgbt.org) to get more information.
+You can visit [this site](https://cnlgbt.org/english.html) to get more information.
 
-## Join us
+## How to Join Us
 
-1. Sign in README.md ([Signature](./README.md#署名))
-2. Write an article about Chinese LGBTQIA community ([Articles](./README.md#文章))
+1. Sign in README.md ([Signature](./README.md#署名) section)
+2. Write an article about Chinese LGBTQIA community and post to ([Articles](./README.md#文章))
 
 ## Signature
 
@@ -26,7 +26,5 @@ You can view [the list of supporters](./README.md#署名) in the original text.
 ## Articles
 
 > Recommend that every post provides .md backup in `/post`.
->
-> These articles are provided by people who support this project.
 
 You can view [the list of articles](./README.md#文章) in the original text.
