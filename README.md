@@ -43,6 +43,7 @@
 - [hoochanlon](https://github.com/hoochanlon)
 - [Panedioic](https://github.com/panedioic)
 - [zrzjohn](https://github.com/zrzjohn)
+- [Stapx Steve](https://twitter.com/Stapx_Steve)
 
 ## 文章
 
