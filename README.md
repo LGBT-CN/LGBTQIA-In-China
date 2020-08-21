@@ -44,6 +44,7 @@
 - [Panedioic](https://github.com/panedioic)
 - [zrzjohn](https://github.com/zrzjohn)
 - [Stapx Steve](https://twitter.com/Stapx_Steve)
+- [KirisameMisawa](https://github.com/KirisameMisawa)
 
 ## 文章
 
