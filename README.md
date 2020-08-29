@@ -45,6 +45,7 @@
 - [zrzjohn](https://github.com/zrzjohn)
 - [Stapx Steve](https://twitter.com/Stapx_Steve)
 - [KirisameMisawa](https://github.com/KirisameMisawa)
+- [Sukazyo](https://github.com/Eyre-S)
 
 ## 文章
 
