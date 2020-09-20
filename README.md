@@ -46,6 +46,7 @@
 - [Stapx Steve](https://twitter.com/Stapx_Steve)
 - [KirisameMisawa](https://github.com/KirisameMisawa)
 - [Sukazyo](https://github.com/Eyre-S)
+- [RainbowBird](https://www.luoling8192.top/)
 
 ## 文章
 
