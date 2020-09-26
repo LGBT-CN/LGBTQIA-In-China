@@ -47,6 +47,7 @@
 - [KirisameMisawa](https://github.com/KirisameMisawa)
 - [Sukazyo](https://github.com/Eyre-S)
 - [RainbowBird](https://www.luoling8192.top/)
+- [EndureBlaze](https://github.com/EndureBlaze)
 
 ## 文章
 
