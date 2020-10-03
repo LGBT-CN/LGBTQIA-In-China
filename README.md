@@ -50,6 +50,7 @@
 - [EndureBlaze](https://github.com/EndureBlaze)
 - [miRoox](https://github.com/miRoox)
 - [Rancho Yeung](https://github.com/RanchoYeung)
+- [Zikin](https://github.com/Zikinn)
 
 ## 文章
 
