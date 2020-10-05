@@ -19,7 +19,7 @@ You can visit [this site](https://cnlgbt.org/english.html) to get more informati
 
 ## Signature
 
-> This may create a degree of privacy leakage, as confessing one's sexual orientation, gender identity and gender expression remains a risky activity in China.
+> This may create a degree of privacy leakage, as confessing one's sexual orientation, gender identity or gender expression remains a risky activity in China.
 
 You can view [the list of supporters](./README.md#署名) in the original text.
 
