@@ -53,6 +53,7 @@
 - [Zikin](https://github.com/Zikinn)
 - [Nworm](https://github.com/1574242600)
 - [AkigawaRinko](https://github.com/AkigawaRinko)
+- [ChenCyl](https://github.com/ChenCyl)
 
 ## 文章
 
