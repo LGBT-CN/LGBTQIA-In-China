@@ -6,7 +6,7 @@
 [![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
 > 人们生来是而且始终是自由平等的
 
-[简体中文](README.md) | English | [繁體中文](README.TW.md)
+简体中文 | [English](README.EN.md) | [繁體中文](README.TW.md)
 
 本仓库意图在 LGBTQIA 程序员群体中唤起对自由平等的追求，哪怕我们都深知这不会激起浪花。
 
@@ -19,7 +19,7 @@
 
 ## 署名
 
-> 这将造成一定程度上的隐私泄漏，因为在中国坦白自己的性取向、性别认同及性别表达仍是个风险较大的行为。
+> 这将造成一定程度上的隐私泄漏，因为在中国坦白自己的性取向、性别认同或性别表达仍是个风险较大的行为。
 
 - [Scvoet](https://github.com/scvoet)
 - [Eltrac](https://github.com/BigCoke233)
@@ -43,6 +43,18 @@
 - [hoochanlon](https://github.com/hoochanlon)
 - [Panedioic](https://github.com/panedioic)
 - [zrzjohn](https://github.com/zrzjohn)
+- [Stapx Steve](https://twitter.com/Stapx_Steve)
+- [KirisameMisawa](https://github.com/KirisameMisawa)
+- [Sukazyo](https://github.com/Eyre-S)
+- [RainbowBird](https://www.luoling8192.top/)
+- [EndureBlaze](https://github.com/EndureBlaze)
+- [miRoox](https://github.com/miRoox)
+- [Rancho Yeung](https://github.com/RanchoYeung)
+- [Zikin](https://github.com/Zikinn)
+- [Nworm](https://github.com/1574242600)
+- [AkigawaRinko](https://github.com/AkigawaRinko)
+- [ChenCyl](https://github.com/ChenCyl)
+- [HackerRouter](https://github.com/HackerRouter)
 
 ## 文章
 
