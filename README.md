@@ -4,6 +4,7 @@
 
 [![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000?style=flat-square)](https://git.io/JfJiO)
 [![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
+[![Skype Group](https://img.shields.io/badge/Skype-LGBTQIA%20in%20China-blue?style=flat-square)](https://join.skype.com/XoFAbvte7W7m)
 > 人们生来是而且始终是自由平等的
 
 简体中文 | [English](README.EN.md) | [繁體中文](README.TW.md)
@@ -42,7 +43,7 @@
 - [Arecyuset](https://github.com/asuszwbUbuntu)
 - [hoochanlon](https://github.com/hoochanlon)
 - [Panedioic](https://github.com/panedioic)
-- [zrzjohn](https://github.com/zrzjohn)
+- [Zuorong Zhang](https://github.com/zuorong-zhang)
 - [Stapx Steve](https://twitter.com/Stapx_Steve)
 - [KirisameMisawa](https://github.com/KirisameMisawa)
 - [Sukazyo](https://github.com/Eyre-S)
