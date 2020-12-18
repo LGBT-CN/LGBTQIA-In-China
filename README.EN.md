@@ -4,6 +4,7 @@
 
 [![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000?style=flat-square)](https://git.io/JfJiO)
 [![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
+[![Skype Group](https://img.shields.io/badge/Skype-LGBTQIA%20in%20China-blue?style=flat-square)](https://join.skype.com/XoFAbvte7W7m)
 > People were born free and equal.
 
 [简体中文](README.md) | English | [繁體中文](README.TW.md)
