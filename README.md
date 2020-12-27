@@ -50,7 +50,6 @@
 - [EndureBlaze](https://github.com/EndureBlaze)
 - [miRoox](https://github.com/miRoox)
 - [Rancho Yeung](https://github.com/RanchoYeung)
-- [Zikin](https://github.com/Zikinn)
 - [Nworm](https://github.com/1574242600)
 - [AkigawaRinko](https://github.com/AkigawaRinko)
 - [ChenCyl](https://github.com/ChenCyl)
