@@ -22,7 +22,13 @@
 > 这将造成一定程度上的隐私泄漏，因为在中国坦白自己的性取向、性别认同或性别表达仍是个风险较大的行为。
 
 <!-- 请不要更改下方的标签 -->
-<!-- BEGIN LGBT-CN SIGNATURE-->
+<!-- BEGIN LGBT-CN COUNT -->
+
+<!-- END LGBT-CN COUNT -->
+<!-- 请不要更改上方的标签 -->
+
+<!-- 请不要更改下方的标签 -->
+<!-- BEGIN LGBT-CN SIGNATURE -->
 
 - [Scvoet](https://github.com/scvoet)
 - [Eltrac](https://github.com/BigCoke233)
@@ -62,7 +68,7 @@
 - [SaoYan](https://github.com/SaoYan)
 - [StudentMain](https://github.com/studentmain)
 
-<!-- END LGBT-CN SIGNATURE-->
+<!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
 ## 文章
