@@ -1,0 +1,19 @@
+name: Count Signature Number
+on: push
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup S.C.
+        id: sc-dl
+        run: |
+          wget "https://github.com/LGBT-CN/signature-counter/releases/download/0.0.1/x86_64-unknown-linux-musl"
+          ./x86_64-unknown-linux-musl ./README.md
+          rm -f ./x86_64-unknown-linux-musl
+      - uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: counter
+          CLEAN: true
