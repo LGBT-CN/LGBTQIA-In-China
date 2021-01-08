@@ -23,6 +23,7 @@ jobs:
           git config user.email 33132228+KevinZonda@users.noreply.github.com
           git add .
           git commit -m "S.C.: `date "+%Y-%m-%d %H:%M:%S UTC%:z"`"
+          exit 0
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
