@@ -4,6 +4,8 @@
 
 [![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000?style=flat-square)](https://git.io/JfJiO)
 [![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
+![Count Signature Number](https://github.com/LGBT-CN/LGBTQIA-in-China/workflows/Count%20Signature%20Number/badge.svg)
+
 > 人们生来是而且始终是自由平等的
 
 简体中文 | [English](README.EN.md) | [繁體中文](README.TW.md)
