@@ -69,6 +69,7 @@
 - [Jimgao](https://github.com/tianheg)
 - [SaoYan](https://github.com/SaoYan)
 - [StudentMain](https://github.com/studentmain)
+- [Rabbit0w0](https://github.com/Rabbit0w0)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
