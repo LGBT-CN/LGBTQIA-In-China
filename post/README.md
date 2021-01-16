@@ -10,3 +10,5 @@ We hope that everyone observes the following rules when contributes:
 Proactively indicate the sources, references & etc.
 1. 文章标题使用一级标题 (`#`) 标注  
 The title of the article should be marked with the first-level heading (`#`)
+1. 版权信息  
+Copyright or Copyleft information
