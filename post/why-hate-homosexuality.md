@@ -166,3 +166,6 @@
 ## 最后
 
 Love is Love
+
+*本文非本站原创，原作者为 Eltrac，原文链接：<permalink>*  
+*版权信息请参阅 <https://blog.guhub.cn/notice.html>*

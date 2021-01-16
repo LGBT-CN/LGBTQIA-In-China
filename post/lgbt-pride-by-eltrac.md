@@ -204,3 +204,6 @@ LGBT+ 群体指的是「性少数」群体，最常见的对这类群体的称�
 ## 如何对待 LGBT+ 群体
 
 Well, 像对待普通异性恋那样就好了。 :@(无所谓)
+
+*本文非本站原创，原作者为 Eltrac，原文链接：<permalink>*  
+*版权信息请参阅 <https://blog.guhub.cn/notice.html>*
