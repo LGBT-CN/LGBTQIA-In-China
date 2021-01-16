@@ -70,6 +70,7 @@
 - [SaoYan](https://github.com/SaoYan)
 - [StudentMain](https://github.com/studentmain)
 - [Rabbit0w0](https://github.com/Rabbit0w0)
+- [Restent Ou](https://github.com/Restent)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
