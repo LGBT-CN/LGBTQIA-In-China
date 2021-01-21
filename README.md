@@ -72,6 +72,7 @@
 - [Rabbit0w0](https://github.com/Rabbit0w0)
 - [Restent Ou](https://github.com/Restent)
 - [Moycat](https://github.com/moycat)
+- [FragileNeko](https://github.com/Cattttttttt)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
