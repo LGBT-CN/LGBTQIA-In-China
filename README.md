@@ -73,6 +73,7 @@
 - [Restent Ou](https://github.com/Restent)
 - [Moycat](https://github.com/moycat)
 - [FragileNeko](https://github.com/Cattttttttt)
+- [BBleae](https://github.com/BBleae)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
