@@ -194,60 +194,60 @@ html {
 
 @media (min-width: 768px) {
     .nav-title {
-    display: block;
+        display: block;
     }
 
     .nav {
-    justify-content: space-between;
+        justify-content: space-between;
     }
 
     .nav-content {
-    display: block !important;
+        display: block !important;
     }
 
     .nav-content a {
-    margin: 0;
-    margin-left: 10px;
+        margin: 0;
+        margin-left: 10px;
     }
 
     #equal {
-    height: 100vh;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding: 10px 60px;
-    margin-top: 0;
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 60px;
+        margin-top: 0;
     }
 
     .equal-flag img {
-    margin: 20px;
-    width: 380px;
+        margin: 20px;
+        width: 380px;
     }
 
     #support hr {
-    width: 330px;
+        width: 330px;
     }
 }
 
 @media (min-width: 992px) {
     #about {
-    padding: 10px 30px;
+        padding: 10px 30px;
     }
 
     .about-section {
-    padding: 30px;
+        padding: 30px;
     }
 
     #support {
-    padding: 10px 60px;
+        padding: 10px 60px;
     }
 
     .footer {
-    padding: 20px 60px;
+        padding: 20px 60px;
     }
 
     .equal-flag img {
-    width: 490px;
+        width: 490px;
     }
 }
 
