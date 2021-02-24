@@ -49,7 +49,7 @@
 - [TheWanderingCoel](https://github.com/TheWanderingCoel)
 - [Borschts](https://t.me/Borschts)
 - [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
-- [InAskr](https://github.com/InAnskr)
+- [InAnskr](https://github.com/InAnskr)
 - [Arecyuset](https://github.com/asuszwbUbuntu)
 - [hoochanlon](https://github.com/hoochanlon)
 - [Panedioic](https://github.com/panedioic)
