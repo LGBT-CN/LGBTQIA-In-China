@@ -66,7 +66,7 @@
 - [ChenCyl](https://github.com/ChenCyl)
 - [HackerRouter](https://github.com/HackerRouter)
 - [Mashirl](https://github.com/Mashirl)
-- [Jimgao](https://github.com/tianheg)
+- [tianheg](https://github.com/tianheg)
 - [SaoYan](https://github.com/SaoYan)
 - [StudentMain](https://github.com/studentmain)
 - [Rabbit0w0](https://github.com/Rabbit0w0)
