@@ -25,7 +25,7 @@
 
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 43 人签署！
+已有 44 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -75,6 +75,7 @@
 - [FragileNeko](https://github.com/Cattttttttt)
 - [BBleae](https://github.com/BBleae)
 - [ChenYihan](https://github.com/ChenYihan2006)
+- [NekoKage](https://github.com/SuperXUnet)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
