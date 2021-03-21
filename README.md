@@ -76,6 +76,7 @@
 - [BBleae](https://github.com/BBleae)
 - [ChenYihan](https://github.com/ChenYihan2006)
 - [NekoKage](https://github.com/neko-kage)
+- [Himself65](https://github.com/himself65)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
