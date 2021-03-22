@@ -78,6 +78,7 @@
 - [NekoKage](https://github.com/neko-kage)
 - [Himself65](https://github.com/himself65)
 - [Coelacanthus](https://github.com/CoelacanthusHex)
+- [Antares](https://github.com/AntaresQAQ)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
