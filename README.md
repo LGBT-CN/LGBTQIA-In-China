@@ -25,7 +25,7 @@
 
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 48 人签署！
+已有 49 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -80,6 +80,7 @@
 - [Coelacanthus](https://github.com/CoelacanthusHex)
 - [Antares](https://github.com/AntaresQAQ)
 - [gkkeys](https://github.com/gkkeys)
+- [X140Yu](https://github.com/X140Yu)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
