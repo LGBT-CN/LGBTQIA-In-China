@@ -6,7 +6,7 @@
 [![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
 > 人們生來是而且始終是自由平等的
 
-[简体中文](README.md) | [English](README.EN.md) | 繁體中文
+[简体中文](README.md) | [English](README.EN.md) | **繁體中文** | [Português do Brasil](README.PT_BR.md)
 
 本倉庫意圖在 LGBTQIA 程序員群體中喚起對自由平等的追求，哪怕我們都深知這不會激起浪花。
 
