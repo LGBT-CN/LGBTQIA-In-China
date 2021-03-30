@@ -92,10 +92,10 @@
 
 这些是支持本项目的人贡献的文章。
 
-| 标题 | 作者 | 原文 | 备份 |
-| -- | -- | -- | -- |
-|跨性别群体诸多权益应得到广泛关注|国务院妇女儿童工作委员会|[原文链接](http://www.nwccw.gov.cn/2018-08/14/content_218467.htm)|[备份链接](/post/跨性别群体诸多权益应得到广泛关注.md)|
-|为什么人们讨厌同性恋|[Eltrac Koalar](https://github.com/BigCoke233)|[原文链接](https://blog.guhub.cn/p/why-hate-homosexuality.html)|[备份链接](/post/why-hate-homosexuality.md)|
-|刻板印象与 LGBT+ 平权|[Eltrac Koalar](https://github.com/BigCoke233)|[原文链接](https://blog.guhub.cn/p/lgbt-pride.html)|[备份链接](/post/lgbt-pride-by-eltrac.md)|
-|LGBT？现有歧视与正确做法|[Restent](https://github.com/Restent)|[原文链接](/post/LGBT？现有歧视与正确做法.md)|[备份链接](/post/LGBT？现有歧视与正确做法.md)|
-|知否？知否？应是绿肥红瘦|[KevinZonda](https://github.com/KevinZonda)|[原文链接](/post/知否？知否？应是绿肥红瘦.md)|[备份链接](/post/知否？知否？应是绿肥红瘦.md)|
+| 标题 | 作者 | 原文 | 备份 | 归档 |
+| -- | -- | -- | -- | -- |
+|跨性别群体诸多权益应得到广泛关注|国务院妇女儿童工作委员会|[原文链接](http://www.nwccw.gov.cn/2018-08/14/content_218467.htm)|[备份链接](/post/跨性别群体诸多权益应得到广泛关注.md)|[归档1](https://archive.is/ypdtG)<br>[归档2](https://archive.is/I6nQm) |
+|为什么人们讨厌同性恋|[Eltrac Koalar](https://github.com/BigCoke233)|[原文链接](https://blog.guhub.cn/p/why-hate-homosexuality.html)|[备份链接](/post/why-hate-homosexuality.md)|N/A|
+|刻板印象与 LGBT+ 平权|[Eltrac Koalar](https://github.com/BigCoke233)|[原文链接](https://blog.guhub.cn/p/lgbt-pride.html)|[备份链接](/post/lgbt-pride-by-eltrac.md)|N/A|
+|LGBT？现有歧视与正确做法|[Restent](https://github.com/Restent)|[原文链接](/post/LGBT？现有歧视与正确做法.md)|[备份链接](/post/LGBT？现有歧视与正确做法.md)|N/A|
+|知否？知否？应是绿肥红瘦|[KevinZonda](https://github.com/KevinZonda)|[原文链接](/post/知否？知否？应是绿肥红瘦.md)|[备份链接](/post/知否？知否？应是绿肥红瘦.md)|N/A|
