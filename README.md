@@ -83,6 +83,7 @@
 - [gkkeys](https://github.com/gkkeys)
 - [X140Yu](https://github.com/X140Yu)
 - [Raspberry-Monster](https://github.com/Raspberry-Monster)
+- [Clansty](https://github.com/Clansty)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
