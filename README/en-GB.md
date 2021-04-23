@@ -10,7 +10,7 @@
 
 The intent of this repository is to arouse the quest for freedom and equality in the LGBTQIA community of programmers, even though we know that this may not work.
 
-You can visit [this site](https://lgbt-cn.org/page/en.html) to get more information.
+You can visit [this site](https://lgbt-cn.org/page/en-GB.html) to get more information.
 
 ## How to Join Us
 
