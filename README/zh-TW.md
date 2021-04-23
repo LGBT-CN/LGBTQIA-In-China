@@ -28,3 +28,7 @@
 > 建議每篇文章均在 `/post` 下提供 .md 格式的備份。
 
 你可以在原始文本中查看[文章列表](README.md#文章)。
+
+## 構建者
+
+![Contributors](https://contrib.rocks/image?repo=LGBT-CN/LGBTQIA-In-China)
