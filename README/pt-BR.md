@@ -28,3 +28,7 @@ Você pode ver [lista de apoiadores](./README.md#署名) no texto original.
 > Recomendamos que toda publicação tenha um backup em `/post`.
 
 Você pode ver [lista de artigos](./README.md#文章) no texto original.
+
+## Contribuintes
+
+![Contribuintes](https://contrib.rocks/image?repo=LGBT-CN/LGBTQIA-In-China)
