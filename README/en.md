@@ -28,3 +28,7 @@ You can view [the list of supporters](./README.md#署名) in the original text.
 > Recommend that every post provides .md backup in `/post`.
 
 You can view [the list of articles](./README.md#文章) in the original text.
+
+## Contributors
+
+![Contributors](https://contrib.rocks/image?repo=LGBT-CN/LGBTQIA-In-China)
