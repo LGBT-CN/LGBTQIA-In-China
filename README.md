@@ -101,3 +101,7 @@
 |刻板印象与 LGBT+ 平权|[Eltrac Koalar](https://github.com/BigCoke233)|[原文链接](https://blog.guhub.cn/p/lgbt-pride.html)|[备份链接](/post/lgbt-pride-by-eltrac.md)|N/A|
 |LGBT？现有歧视与正确做法|[Restent](https://github.com/Restent)|[原文链接](/post/LGBT？现有歧视与正确做法.md)|[备份链接](/post/LGBT？现有歧视与正确做法.md)|N/A|
 |知否？知否？应是绿肥红瘦|[KevinZonda](https://github.com/KevinZonda)|[原文链接](/post/知否？知否？应是绿肥红瘦.md)|[备份链接](/post/知否？知否？应是绿肥红瘦.md)|N/A|
+
+## 构建者
+
+![Contributors](https://contrib.rocks/image?repo=LGBT-CN/LGBTQIA-In-China)
