@@ -2,7 +2,7 @@ name: Count Signature Number
 on: push
 
 jobs:
-  deploy:
+  count:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
