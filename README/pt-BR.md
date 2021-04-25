@@ -6,7 +6,7 @@
 [![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
 > As pessoas nasceram livres e iguais.
 
-[简体中文](./../README.md) | [繁體中文](./zh-TW.md) | [English](./en-GB.md) | **Português do Brasil**
+[简体中文](./../README.md) | [繁體中文](./zh-TW.md) | [English](./en-GB.md) | **Português do Brasil**  | [日本語](./ja-JP.md)
 
 O objetivo deste repositório é despertar a busca por liberdade e igualdade na comunidade LGBTQIA de programadores, embora saibamos que isso pode não funcionar.
 
