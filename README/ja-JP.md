@@ -6,27 +6,28 @@
 [![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
 ![Count Signature Number](https://github.com/LGBT-CN/LGBTQIA-in-China/workflows/Count%20Signature%20Number/badge.svg)
 
-> 人们生来是而且始终是自由平等的
+> 人々は生まれ、常に自由で平等です
 
-**简体中文** | [繁體中文](README/zh-TW.md) | [English](README/en-GB.md) | [Português do Brasil](README/pt-BR.md) | [日本語](README/ja-JP.md)
+[简体中文](./../README.md) | [繁體中文](./zh-TW.md) | [English](./en-GB.md) | [Português do Brasil](./pt-BR.md) | **日本語**
 
-本仓库意图在 LGBTQIA 程序员群体中唤起对自由平等的追求，哪怕我们都深知这不会激起浪花。
 
-你可以访问[这个网站](https://lgbt-cn.org)查看更多信息。
+このプロジェクトは、たとえこれが波を引き起こさないことを私たち全員が知っているとしても、LGBTQIAプログラマーの間で自由と平等の追求を喚起することを意図しています。
 
-## 如何参与
+あなたは訪問することができます[このサイト](https://lgbt-cn.org)詳しくは。
 
-1. 在 README.md 中署名 ([署名](#署名))
-2. 写一篇关于中国 LGBTQIA 群体的文章 ([文章](#文章))
+## 参加方法
+
+1. README.md にサインインします ([署名](#署名))
+2. 中国のLGBTQIAコミュニティに関する記事を書く ([論文](#論文))
 
 ## 署名
 
-> 这将造成一定程度上的隐私泄漏，因为在中国坦白自己的性取向、性别认同或性别表达仍是个风险较大的行为。
+> 中国では、性的指向、性同一性、または性表現を告白することは依然として危険な行動であるため、これはある程度のプライバシー漏えいを引き起こします。
 
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 53 人签署！
+52人が署名しました！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -85,25 +86,24 @@
 - [Raspberry-Monster](https://github.com/Raspberry-Monster)
 - [Clansty](https://github.com/Clansty)
 - [SakuraiLH](https://github.com/SakuraiLH)
-- [Julia](https://github.com/Julia-1994)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
-## 文章
+## 論文
 
-> 建议每篇文章均在 `/post` 下提供 .md 格式的备份。
+> 各記事は、 `/ post`の下に.md形式でバックアップを提供することをお勧めします。
 
-这些是支持本项目的人贡献的文章。
+このプロジェクトを支援する人々によって寄稿された記事です。
 
-| 标题 | 作者 | 原文 | 备份 | 归档 |
+| 題名 | 著者 | 元の | バックアップ | アーカイブ |
 | -- | -- | -- | -- | -- |
-|跨性别群体诸多权益应得到广泛关注|国务院妇女儿童工作委员会|[原文链接](http://www.nwccw.gov.cn/2018-08/14/content_218467.htm)|[备份链接](/post/跨性别群体诸多权益应得到广泛关注.md)|[归档1](https://archive.is/ypdtG)<br>[归档2](https://archive.is/I6nQm) |
-|为什么人们讨厌同性恋|[Eltrac Koalar](https://github.com/BigCoke233)|[原文链接](https://blog.guhub.cn/p/why-hate-homosexuality.html)|[备份链接](/post/why-hate-homosexuality.md)|N/A|
-|刻板印象与 LGBT+ 平权|[Eltrac Koalar](https://github.com/BigCoke233)|[原文链接](https://blog.guhub.cn/p/lgbt-pride.html)|[备份链接](/post/lgbt-pride-by-eltrac.md)|N/A|
-|LGBT？现有歧视与正确做法|[Restent](https://github.com/Restent)|[原文链接](/post/LGBT？现有歧视与正确做法.md)|[备份链接](/post/LGBT？现有歧视与正确做法.md)|N/A|
-|知否？知否？应是绿肥红瘦|[KevinZonda](https://github.com/KevinZonda)|[原文链接](/post/知否？知否？应是绿肥红瘦.md)|[备份链接](/post/知否？知否？应是绿肥红瘦.md)|N/A|
+|トランスジェンダーグループの多くの権利と利益は、広く注目されるに値します|中国国務院の女性と子供たちの作業委員会|[元のリンク](http://www.nwccw.gov.cn/2018-08/14/content_218467.htm)|[バックアップリンク](/post/跨性别群体诸多权益应得到广泛关注.md)|[アーカイブ1](https://archive.is/ypdtG)<br>[アーカイブ2](https://archive.is/I6nQm) |
+|なぜ人々は同性愛を嫌うのか|[Eltrac Koalar](https://github.com/BigCoke233)|[元のリンク](https://blog.guhub.cn/p/why-hate-homosexuality.html)|[バックアップリンク](/post/why-hate-homosexuality.md)|N/A|
+|ステレオタイプとLGBT +の平等|[Eltrac Koalar](https://github.com/BigCoke233)|[元のリンク](https://blog.guhub.cn/p/lgbt-pride.html)|[バックアップリンク](/post/lgbt-pride-by-eltrac.md)|N/A|
+|LGBT？ 既存の差別と正しい慣行|[Restent](https://github.com/Restent)|[元のリンク](/post/LGBT？现有歧视与正确做法.md)|[バックアップリンク](/post/LGBT？现有歧视与正确做法.md)|N/A|
+|知ってる？ 知ってる？ 緑脂肪赤薄いはずです|[KevinZonda](https://github.com/KevinZonda)|[元のリンク](/post/知否？知否？应是绿肥红瘦.md)|[バックアップリンク](/post/知否？知否？应是绿肥红瘦.md)|N/A|
 
-## 构建者
+## プロジェクトの貢献者
 
 ![Contributors](https://contrib.rocks/image?repo=LGBT-CN/LGBTQIA-In-China)
