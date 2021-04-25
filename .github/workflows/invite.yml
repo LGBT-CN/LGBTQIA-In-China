@@ -1,4 +1,4 @@
-name: Inclusive Organization
+name: Invite to Organisation
 on:
   push:
     branches: master
@@ -6,7 +6,7 @@ jobs:
   invite:
     runs-on: ubuntu-latest
     steps:
-      - name: Invite contributor to the organization
+      - name: Invite the contributor to the organisation
         uses: lekterable/inclusive-organization-action@v1.1.0
         with:
           organization: LGBT-CN
