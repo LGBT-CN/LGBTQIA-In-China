@@ -86,6 +86,7 @@
 - [Clansty](https://github.com/Clansty)
 - [SakuraiLH](https://github.com/SakuraiLH)
 - [Julia](https://github.com/Julia-1994)
+- [AkinoKaede](https://github.com/AkinoKaede)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
