@@ -87,6 +87,7 @@
 - [SakuraiLH](https://github.com/SakuraiLH)
 - [Julia](https://github.com/Julia-1994)
 - [AkinoKaede](https://github.com/AkinoKaede)
+- [Tianling Shen](https://github.com/1715173329)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
