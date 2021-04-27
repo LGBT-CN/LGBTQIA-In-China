@@ -26,7 +26,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 53 人签署！
+已有 55 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -86,6 +86,8 @@
 - [Clansty](https://github.com/Clansty)
 - [SakuraiLH](https://github.com/SakuraiLH)
 - [Julia](https://github.com/Julia-1994)
+- [AkinoKaede](https://github.com/AkinoKaede)
+- [Tianling Shen](https://github.com/1715173329)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
