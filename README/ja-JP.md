@@ -24,71 +24,7 @@
 
 > 中国では、性的指向、性同一性、または性表現を告白することは依然として危険な行動であるため、これはある程度のプライバシー漏えいを引き起こします。
 
-<!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
-<!-- 请不要更改下方的标签 -->
-<!-- BEGIN LGBT-CN COUNT -->
-52人が署名しました！
-<!-- END LGBT-CN COUNT -->
-<!-- 请不要更改上方的标签 -->
-
-<!-- 请不要更改下方的标签 -->
-<!-- BEGIN LGBT-CN SIGNATURE -->
-
-- [Scvoet](https://github.com/scvoet)
-- [Eltrac](https://github.com/BigCoke233)
-- [AyagawaSeirin](https://github.com/AyagawaSeirin)
-- [Broca-Phenol](https://github.com/Broca-Phenol)
-- [Sakitami](https://github.com/Sakitami)
-- [Ganxiaozhe](https://github.com/ganxiaozhe)
-- [LemonPrefect](https://github.com/LemonPrefect)
-- [AmemiyaSigure](https://github.com/AmemiyaSigure)
-- [vandarkhlome](https://github.com/megatontech)
-- [KevinZonda](https://github.com/KevinZonda)
-- [Moooebie](https://github.com/Moooebie)
-- [eternal-flame-AD](https://github.com/eternal-flame-AD)
-- [kmou424](https://github.com/kmou424)
-- [haig233](https://github.com/haig233)
-- [TheWanderingCoel](https://github.com/TheWanderingCoel)
-- [Borschts](https://t.me/Borschts)
-- [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
-- [InAnskr](https://github.com/InAnskr)
-- [Arecyuset](https://github.com/asuszwbUbuntu)
-- [hoochanlon](https://github.com/hoochanlon)
-- [Panedioic](https://github.com/panedioic)
-- [zrzjohn](https://github.com/zrzjohn)
-- [Stapx Steve](https://twitter.com/Stapx_Steve)
-- [KirisameMisawa](https://github.com/KirisameMisawa)
-- [Sukazyo](https://github.com/Eyre-S)
-- [RainbowBird](https://www.luoling8192.top/)
-- [EndureBlaze](https://github.com/EndureBlaze)
-- [miRoox](https://github.com/miRoox)
-- [Rancho Yeung](https://github.com/RanchoYeung)
-- [Nworm](https://github.com/1574242600)
-- [AkigawaRinko](https://github.com/AkigawaRinko)
-- [ChenCyl](https://github.com/ChenCyl)
-- [HackerRouter](https://github.com/HackerRouter)
-- [Mashirl](https://github.com/Mashirl)
-- [tianheg](https://github.com/tianheg)
-- [SaoYan](https://github.com/SaoYan)
-- [StudentMain](https://github.com/studentmain)
-- [Rabbit0w0](https://github.com/Rabbit0w0)
-- [Restent Ou](https://github.com/Restent)
-- [Moycat](https://github.com/moycat)
-- [FragileNeko](https://github.com/Cattttttttt)
-- [BBleae](https://github.com/BBleae)
-- [ChenYihan](https://github.com/ChenYihan2006)
-- [NekoKage](https://github.com/neko-kage)
-- [Himself65](https://github.com/himself65)
-- [Coelacanthus](https://github.com/CoelacanthusHex)
-- [Antares](https://github.com/AntaresQAQ)
-- [gkkeys](https://github.com/gkkeys)
-- [X140Yu](https://github.com/X140Yu)
-- [Raspberry-Monster](https://github.com/Raspberry-Monster)
-- [Clansty](https://github.com/Clansty)
-- [SakuraiLH](https://github.com/SakuraiLH)
-
-<!-- END LGBT-CN SIGNATURE -->
-<!-- 请不要更改上方的标签 -->
+サポーターのリストは[原文でご覧いただけます](README.md#署名)。
 
 ## 論文
 
