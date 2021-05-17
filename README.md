@@ -90,6 +90,7 @@
 - [AkinoKaede](https://github.com/AkinoKaede)
 - [Tianling Shen](https://github.com/1715173329)
 - [StarTrails](https://github.com/Star-Trails)
+- [Zhao Wen](https://github.com/ybqdren)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
