@@ -92,6 +92,7 @@
 - [StarTrails](https://github.com/Star-Trails)
 - [Zhao Wen](https://github.com/ybqdren)
 - [KagurazakaKano](https://github.com/KagurazakaKano)
+- [livrth](https://github.com/livrth)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
