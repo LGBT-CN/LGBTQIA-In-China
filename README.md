@@ -94,6 +94,7 @@
 - [KagurazakaKano](https://github.com/KagurazakaKano)
 - [livrth](https://github.com/livrth)
 - [Jimmy0v0](https://jimmy0w0.me)
+- [lzhbhlrpython](https://github.com/lzhbhlrpython)
 
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
