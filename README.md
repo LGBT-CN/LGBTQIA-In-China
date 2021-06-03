@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 62 人签署！
+已有 63 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -96,6 +96,7 @@
 - [Jimmy0v0](https://jimmy0w0.me)
 - [lzhbhlrpython](https://github.com/lzhbhlrpython)
 - [Timeemit-2017](https://github.com/Timeemit-2017)
+- [kawaai](https://github.com/kawaai-hina)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
