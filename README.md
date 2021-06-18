@@ -98,6 +98,7 @@
 - [Timeemit-2017](https://github.com/Timeemit-2017)
 - [kawaai](https://github.com/kawaai-hina)
 - [vonhyou](https://github.com/vonhyou)
+- [XiaoMouz](https://github.com/XiaoMouz)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
