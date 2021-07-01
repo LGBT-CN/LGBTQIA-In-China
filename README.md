@@ -100,6 +100,7 @@
 - [vonhyou](https://github.com/vonhyou)
 - [XiaoMouz](https://github.com/XiaoMouz)
 - [Suzuya](https://github.com/Suzuya-arch)
+- [ruan4261](https://github.com/ruan4261)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
