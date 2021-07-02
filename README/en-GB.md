@@ -14,20 +14,20 @@ You can visit [this site](https://lgbt-cn.org/page/en-GB.html) to get more infor
 
 ## How to Join Us
 
-1. Sign in README.md ([Signature](./README.md#署名) section)
+1. Sign in README.md ([Signature](../README.md#署名) section)
 2. Write an article about Chinese LGBTQIA community and post to ([Articles](./README.md#文章))
 
 ## Signature
 
 > This may create a degree of privacy leakage, as confessing one's sexual orientation, gender identity or gender expression remains a risky activity in China.
 
-You can view [the list of supporters](./README.md#署名) in the original text.
+You can view [the list of supporters](../README.md#署名) in the original text.
 
 ## Articles
 
 > Recommend that every post provides .md backup in `/post`.
 
-You can view [the list of articles](./README.md#文章) in the original text.
+You can view [the list of articles](../README.md#文章) in the original text.
 
 ## Contributors
 
