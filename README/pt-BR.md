@@ -14,20 +14,20 @@ Você pode visitar [este site](https://lgbt-cn.org/page/en-GB.html) para ter mai
 
 ## Como se unir a nós
 
-1. Assine em README.md, na sessão de ([Assinaturas](./README.md#署名))
-2. Escreva um artigo sobre a comunidade chinesa de LGBTQIA e publique em ([Artigos](./README.md#文章))
+1. Assine em README.md, na sessão de ([Assinaturas](../README.md#署名))
+2. Escreva um artigo sobre a comunidade chinesa de LGBTQIA e publique em ([Artigos](../README.md#文章))
 
 ## Assinatura
 
 > Esteja ciente de que você irá abdicar de sua privacidade e que confessar a própria orientação sexual, identidade de gênero ou expressão de gênero continua sendo uma atividade arriscada na China.
 
-Você pode ver [lista de apoiadores](./README.md#署名) no texto original.
+Você pode ver [lista de apoiadores](../README.md#署名) no texto original.
 
 ## Artigos
 
 > Recomendamos que toda publicação tenha um backup em `/post`.
 
-Você pode ver [lista de artigos](./README.md#文章) no texto original.
+Você pode ver [lista de artigos](../README.md#文章) no texto original.
 
 ## Contribuintes
 
