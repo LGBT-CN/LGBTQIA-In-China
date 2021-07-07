@@ -101,8 +101,9 @@
 - [XiaoMouz](https://github.com/XiaoMouz)
 - [Suzuya](https://github.com/Suzuya-arch)
 - [ruan4261](https://github.com/ruan4261)
-<!-- END LGBT-CN SIGNATURE -->
-<!-- 请不要更改上方的标签 -->
+- [ChengZi](https://github.com/orangeczi)
+  <!-- END LGBT-CN SIGNATURE -->
+  <!-- 请不要更改上方的标签 -->
 
 ## 文章
 
@@ -117,6 +118,7 @@
 |刻板印象与 LGBT+ 平权|[Eltrac Koalar](https://github.com/BigCoke233)|[原文链接](https://blog.guhub.cn/p/lgbt-pride.html)|[备份链接](/post/lgbt-pride-by-eltrac.md)|N/A|
 |LGBT？现有歧视与正确做法|[Restent](https://github.com/Restent)|[原文链接](/post/LGBT？现有歧视与正确做法.md)|[备份链接](/post/LGBT？现有歧视与正确做法.md)|N/A|
 |知否？知否？应是绿肥红瘦|[KevinZonda](https://github.com/KevinZonda)|[原文链接](/post/知否？知否？应是绿肥红瘦.md)|[备份链接](/post/知否？知否？应是绿肥红瘦.md)|N/A|
+|同性恋不是病，真的没必要这么惶恐|雷叔说事（公众号）|[原文链接](https://mp.weixin.qq.com/s/bBI-DBeD5vuCeG_z_plP2g)|[备份链接](/post/同性恋不是病，真的没必要这么惶恐.md)|[WebArchive](https://web.archive.org/web/20210707003943/https://mp.weixin.qq.com/s/bBI-DBeD5vuCeG_z_plP2g)|
 
 ## 构建者
 
