@@ -102,6 +102,7 @@
 - [Suzuya](https://github.com/Suzuya-arch)
 - [ruan4261](https://github.com/ruan4261)
 - [ChengZi](https://github.com/orangeczi)
+- [Yukikawa](https://github.com/TinQlo)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
