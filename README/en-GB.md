@@ -6,7 +6,7 @@
 [![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
 > People were born free and equal.
 
-[简体中文](./../README.md) | [繁體中文](./zh-TW.md) | **English** | [Português do Brasil](./pt-BR.md) | [日本語](./ja-JP.md)
+[简体中文](./../README.md) | [繁體中文](./zh-TW.md) | **English** | [Português do Brasil](./pt-BR.md) | [日本語](./ja-JP.md) | [Français](./fr.md)
 
 The intent of this repository is to arouse the quest for freedom and equality in the LGBTQIA community of programmers, even though we know that this may not work.
 
