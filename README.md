@@ -8,7 +8,7 @@
 
 > 人们生来是而且始终是自由平等的
 
-**简体中文** | [繁體中文](README/zh-TW.md) | [English](README/en-GB.md) | [Português do Brasil](README/pt-BR.md) | [日本語](README/ja-JP.md) | [Français](README/fr.md)
+**简体中文** | [繁體中文](README/zh-TW.md) | [English](README/en-GB.md) | [Português do Brasil](README/pt-BR.md) | [日本語](README/ja-JP.md) | [Français](README/fr-FR.md)
 
 本仓库意图在 LGBTQIA 程序员群体中唤起对自由平等的追求，哪怕我们都深知这不会激起浪花。
 
