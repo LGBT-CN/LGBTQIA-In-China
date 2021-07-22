@@ -103,6 +103,7 @@
 - [ruan4261](https://github.com/ruan4261)
 - [ChengZi](https://github.com/orangeczi)
 - [Yukikawa](https://github.com/TinQlo)
+- [Cubik65536](https://cubik65536.top)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
