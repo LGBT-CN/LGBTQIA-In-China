@@ -8,7 +8,7 @@
 
 > 人は生まれながらにして平等である
 
-[简体中文](./../README.md) | [繁體中文](./zh-TW.md) | [English](./en-GB.md) | [Português do Brasil](./pt-BR.md) | **日本語**
+[简体中文](./../README.md) | [繁體中文](./zh-TW.md) | [English](./en-GB.md) | [Português do Brasil](./pt-BR.md) | **日本語** | [Français](./fr-FR.md)
 
 例え塵が積もっても山とならないかもしれませんが、このプロジェクト(レポジトリ)では、LGBTQIAのプログラマーの間に自由と平等への追求を喚起します。
 
