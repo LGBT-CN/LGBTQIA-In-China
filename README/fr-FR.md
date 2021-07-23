@@ -21,7 +21,7 @@ Vous pouvez consulter [ce site web](https://lgbt-cn.org/page/en-GB.html) pour ob
 
 > Cela peut créer un certain degré de fuite de la vie privée, car avouer son orientation sexuelle, son identité de genre ou son expression de genre reste une activité risquée en Chine.
 
-Vous pouvez voir [la liste des souteneurs](../README.md#署名) dans le document original.
+Vous pouvez voir [la liste des signataires](../README.md#署名) dans le document original.
 
 ## Articles
 
