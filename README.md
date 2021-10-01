@@ -104,7 +104,6 @@
 - [ChengZi](https://github.com/orangeczi)
 - [Yukikawa](https://github.com/TinQlo)
 - [Cubik65536](https://cubik65536.top)
-- [WUTONK](https://github.com/WUTONK)
 - [bobby285271](https://github.com/bobby285271)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
