@@ -106,6 +106,7 @@
 - [YukiChiyoda](https://github.com/YukiChiyoda)
 - [Cubik65536](https://cubik65536.top)
 - [bobby285271](https://github.com/bobby285271)
+- [LightQuantum](https://github.com/PhotonQuantum)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
