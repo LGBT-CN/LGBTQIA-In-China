@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 73 人签署！
+已有 74 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -105,8 +105,9 @@
 - [Yukikawa](https://github.com/TinQlo)
 - [YukiChiyoda](https://github.com/YukiChiyoda)
 - [Cubik65536](https://cubik65536.top)
-- [WUTONK](https://github.com/WUTONK)
 - [bobby285271](https://github.com/bobby285271)
+- [LightQuantum](https://github.com/PhotonQuantum)
+- [OriginCode](https://github.com/OriginCode)
 - [YHJMM](https://github.com/yhjmm-303)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
