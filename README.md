@@ -109,6 +109,7 @@
 - [LightQuantum](https://github.com/PhotonQuantum)
 - [OriginCode](https://github.com/OriginCode)
 - [YHJMM](https://github.com/yhjmm-303)
+- [ImFunnySun](https://github.com/ImFunnySun)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
