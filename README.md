@@ -110,6 +110,7 @@
 - [YHJMM](https://github.com/yhjmm-303)
 - [ImFunnySun](https://github.com/ImFunnySun)
 - [LLLgoyour](https://github.com/LLLgoyour)
+- [RedElectricity](https://github.com/RedElectricity)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
