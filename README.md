@@ -112,6 +112,7 @@
 - [LLLgoyour](https://github.com/LLLgoyour)
 - [RedElectricity](https://github.com/RedElectricity)
 - [Exuanbo](https://github.com/exuanbo)
+- [Rinfair](https://github.com/Rinfair-CSP-A016)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
