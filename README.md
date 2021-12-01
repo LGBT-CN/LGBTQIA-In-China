@@ -113,6 +113,7 @@
 - [RedElectricity](https://github.com/RedElectricity)
 - [Exuanbo](https://github.com/exuanbo)
 - [Rinfair](https://github.com/Rinfair-CSP-A016)
+- [Nya Candy](https://github.com/Candinya)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
