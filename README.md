@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 85 人签署！
+已有 86 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -118,6 +118,7 @@
 - [Junyan721113](https://github.com/llh721113)
 - [Mayo Cream](https://github.com/mayocream)
 - [whitewatercn](https://github.com/whitewatercn)
+- [septs](https://github.com/septs)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
