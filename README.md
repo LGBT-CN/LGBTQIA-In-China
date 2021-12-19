@@ -120,6 +120,7 @@
 - [whitewatercn](https://github.com/whitewatercn)
 - [septs](https://github.com/septs)
 - [sb-child](https://github.com/sb-child)
+- [Misaka10042🍥](https://github.com/mis1042)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
