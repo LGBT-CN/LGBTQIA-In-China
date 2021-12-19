@@ -15,7 +15,7 @@
 ## 參與
 
 1. 在 README.md 中署名 ([署名](../README.md#署名))
-2. 寫一篇關於中國 LGBTQIA 群體的文章 ([文章](README.md#文章))
+2. 寫一篇關於中國 LGBTQIA 群體的文章 ([文章](../README.md#文章))
 
 ## 署名
 
