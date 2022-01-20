@@ -1,0 +1,30 @@
+name: Count Signature Number
+on: push
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup S.C.
+        id: sc-dl
+        run: |
+          wget "https://github.com/LGBT-CN/signature-counter/releases/download/0.0.1/x86_64-unknown-linux-musl"
+          chmod +x ./x86_64-unknown-linux-musl
+          chmod +w *
+      - name: Run S.C.
+        run: |
+          ./x86_64-unknown-linux-musl ./README.md
+          rm -f ./x86_64-unknown-linux-musl
+      - name: Commit S.C.
+        run: |
+          git config user.name KevinZonda
+          git config user.email 33132228+KevinZonda@users.noreply.github.com
+          git add .
+          git commit -m "S.C.: `date "+%Y-%m-%d %H:%M:%S UTC%:z"`" || true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
