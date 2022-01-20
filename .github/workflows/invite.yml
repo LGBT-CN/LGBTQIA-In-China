@@ -1,0 +1,15 @@
+name: Auto Invite
+on: push
+
+jobs:
+  invite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Invite contributor to the organization
+        uses: lekterable/inclusive-organization-action@v1.1.0
+        with:
+          organization: LGBT-CN
+          team: friends
+          comment: Thanks for your support ❤️
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
