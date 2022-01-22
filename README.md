@@ -125,6 +125,7 @@
 - [DomeenoH](https://github.com/DomeenoH)
 - [Jarry Shaw](https://github.com/JarryShaw)
 - [Scarlet](https://github.com/maroon-scorch)
+- [Lemonawa](https://github.com/Lemonawa)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
