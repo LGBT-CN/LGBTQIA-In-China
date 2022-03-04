@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 90 人签署！
+已有 91 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -37,7 +37,7 @@
 - [Percy](https://github.com/kercily)
 - [Eltrac](https://github.com/BigCoke233)
 - [AyagawaSeirin](https://github.com/AyagawaSeirin)
-- [BroXun](https://github.com/BroXun)
+- [Bro-Xun](https://github.com/Bro-Xun)
 - [Broca-Phenol](https://github.com/Broca-Phenol)
 - [Sakitami](https://github.com/Sakitami)
 - [Ganxiaozhe](https://github.com/ganxiaozhe)
