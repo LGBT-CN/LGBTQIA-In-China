@@ -2,9 +2,9 @@
 
 # LGBTQIA in China
 
-[![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000?style=flat-square)](https://git.io/JfJiO)
-[![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg?style=flat-square)](https://t.me/LGBTCN)
-![Count Signature Number](https://github.com/LGBT-CN/LGBTQIA-in-China/workflows/Count%20Signature%20Number/badge.svg)
+[![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000)](https://git.io/JfJiO)
+[![Telegram Group](https://img.shields.io/badge/Telegram-LGBTCN-FFA500.svg)](https://t.me/LGBTCN)
+![Count Signature Number](https://github.com/LGBT-CN/LGBTQIA-in-China/workflows/Count%20Signature%20Number/badge.svg?style=flat-square)
 
 > 人们生来是而且始终是自由平等的
 
@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 91 人签署！
+已有 94 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -125,6 +125,10 @@
 - [Misaka10042🍥](https://github.com/mis1042)
 - [DomeenoH](https://github.com/DomeenoH)
 - [Jarry Shaw](https://github.com/JarryShaw)
+- [Scarlet](https://github.com/maroon-scorch)
+- [Lemonawa](https://github.com/Lemonawa)
+- [fzf404](https://github.com/fzf404)
+- [tucaoba2333](https://github.com/tucaoba2333)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
@@ -142,7 +146,7 @@
 |LGBT？现有歧视与正确做法|[Restent](https://github.com/Restent)|[原文链接](/post/LGBT？现有歧视与正确做法.md)|[备份链接](/post/LGBT？现有歧视与正确做法.md)|N/A|
 |知否？知否？应是绿肥红瘦|[KevinZonda](https://github.com/KevinZonda)|[原文链接](/post/知否？知否？应是绿肥红瘦.md)|[备份链接](/post/知否？知否？应是绿肥红瘦.md)|N/A|
 |同性恋不是病，真的没必要这么惶恐|雷叔说事（公众号）|[原文链接](https://mp.weixin.qq.com/s/bBI-DBeD5vuCeG_z_plP2g)|[备份链接](/post/同性恋不是病，真的没必要这么惶恐.md)|[WebArchive](https://web.archive.org/web/20210707003943/https://mp.weixin.qq.com/s/bBI-DBeD5vuCeG_z_plP2g)<br>[ArchiveToday](https://archive.ph/wip/2JO8w)|
-|你有反对同性恋的自由吗？| 水杉无水(公众号)|[原文链接](https://mp.weixin.qq.com/s?__biz=MzIyNjM2NzYyMQ==&mid=2247483877&idx=1&sn=6d9352ce91e27efccf8dfb51f5dba71e)|[备份链接](/post/你有反对同性恋的自由吗？.md)| [Telegraph](https://telegra.ph/%E4%BD%A0%E6%9C%89%E5%8F%8D%E5%AF%B9%E5%90%8C%E6%80%A7%E6%81%8B%E7%9A%84%E8%87%AA%E7%94%B1%E5%90%97-04-07)<br>[ArchiveToday](https://archive.is/IuALY#)|
+|你有反对同性恋的自由吗？| 水杉无水（公众号）|[原文链接](https://mp.weixin.qq.com/s?__biz=MzIyNjM2NzYyMQ==&mid=2247483877&idx=1&sn=6d9352ce91e27efccf8dfb51f5dba71e)|[备份链接](/post/你有反对同性恋的自由吗？.md)| [Telegraph](https://telegra.ph/%E4%BD%A0%E6%9C%89%E5%8F%8D%E5%AF%B9%E5%90%8C%E6%80%A7%E6%81%8B%E7%9A%84%E8%87%AA%E7%94%B1%E5%90%97-04-07)<br>[ArchiveToday](https://archive.is/IuALY#)|
 |2019 年 10 月 28 日在佛山一中发生的一切| [lixiang810](https://github.com/lixiang810)，即密涅瓦猫头鹰（知乎） |[原文链接](https://zhuanlan.zhihu.com/p/302444058)|[校订链接](/post/2019年10月28日在佛山一中发生的一切.md)| N/A |
 
 ## 构建者
