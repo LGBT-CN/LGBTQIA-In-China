@@ -37,6 +37,7 @@
 - [Percy](https://github.com/kercily)
 - [Eltrac](https://github.com/BigCoke233)
 - [AyagawaSeirin](https://github.com/AyagawaSeirin)
+- [Bro-Xun](https://github.com/Bro-Xun)
 - [Broca-Phenol](https://github.com/Broca-Phenol)
 - [Sakitami](https://github.com/Sakitami)
 - [Ganxiaozhe](https://github.com/ganxiaozhe)
