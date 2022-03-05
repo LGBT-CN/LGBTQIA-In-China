@@ -128,6 +128,7 @@
 - [Lemonawa](https://github.com/Lemonawa)
 - [fzf404](https://github.com/fzf404)
 - [tucaoba2333](https://github.com/tucaoba2333)
+- [铬泠Natsumi](https://github.com/miangou)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
