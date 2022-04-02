@@ -131,6 +131,7 @@
 - [tucaoba2333](https://github.com/tucaoba2333)
 - [铬泠Natsumi](https://github.com/miangou)
 - [ltyec🍥](https://github.com/ltyec)
+- [Winslow S.E.M.](https://github.com/SorenEricMent)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
