@@ -134,6 +134,7 @@
 - [Winslow S.E.M.](https://github.com/SorenEricMent)
 - [Mastwet](https://github.com/mastwet)
 - [Sunset Lee](https://github.com/lwd-temp)
+- [DearJasker](https://github.com/DearJasker)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
