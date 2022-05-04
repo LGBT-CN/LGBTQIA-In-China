@@ -134,6 +134,7 @@
 - [Mastwet](https://github.com/mastwet)
 - [Sunset Lee](https://github.com/lwd-temp)
 - [DearJasker](https://github.com/DearJasker)
+- [三咲智子](https://github.com/sxzz)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
