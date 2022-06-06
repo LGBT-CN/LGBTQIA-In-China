@@ -136,6 +136,7 @@
 - [DearJasker](https://github.com/DearJasker)
 - [三咲智子](https://github.com/sxzz)
 - [MWX](https://github.com/mwx2006)
+- [EnabledFish](https://github.com/EnabledFish)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
