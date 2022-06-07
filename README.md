@@ -137,6 +137,7 @@
 - [三咲智子](https://github.com/sxzz)
 - [MWX](https://github.com/mwx2006)
 - [EnabledFish](https://github.com/EnabledFish)
+- [Shirasawa](https://github.com/Shirasawa-CN)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
