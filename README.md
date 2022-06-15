@@ -139,6 +139,7 @@
 - [EnabledFish](https://github.com/EnabledFish)
 - [Shirasawa](https://github.com/Shirasawa-CN)
 - [jiayouba233🍥](https://github.com/jiayouba233)
+- [JiJi](https://github.com/mmdjiji)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
