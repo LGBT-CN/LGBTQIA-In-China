@@ -140,6 +140,7 @@
 - [Shirasawa](https://github.com/Shirasawa-CN)
 - [jiayouba233🍥](https://github.com/jiayouba233)
 - [JiJi (mmdjiji)](https://github.com/mmdjiji)
+- [Tianyi Xu](https://github.com/xutianyi1999)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
