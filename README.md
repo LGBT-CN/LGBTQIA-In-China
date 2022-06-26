@@ -143,6 +143,7 @@
 - [Tianyi Xu](https://github.com/xutianyi1999)
 - [Sharelter](https://github.com/sharelter)
 - [Lumine Zhao](https://github.com/SunsetShimme)
+- [Xiao_Jin](https://github.com/jinzhijie)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
