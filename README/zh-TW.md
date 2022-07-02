@@ -10,7 +10,7 @@
 
 本倉庫意圖在 LGBTQIA 程序員群體中喚起對自由平等的追求，哪怕我們都深知這不會激起浪花。
 
-妳可以訪問[這個網站](https://lgbt-cn.org/page/zh-TW.html)查看更多信息。
+妳可以訪問[這個網站](https://lgbt-cn.github.io/page/zh-TW.html)查看更多信息。
 
 ## 參與
 
