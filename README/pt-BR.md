@@ -10,7 +10,7 @@
 
 O objetivo deste repositório é despertar a busca por liberdade e igualdade na comunidade LGBTQIA de programadores, embora saibamos que isso pode não funcionar.
 
-Você pode visitar [este site](https://lgbt-cn.github.io/page/pt-BR.html) para ter maiores informações.
+Você pode visitar [este site](https://lgbt-cn.github.io/page/en-GB.html) para ter maiores informações.
 
 ## Como se unir a nós
 
