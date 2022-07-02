@@ -10,7 +10,7 @@
 
 Le but de ce référentiel est de stimuler la quête de liberté et d'égalité de la communauté des programmeurs LGBTQIA, même si nous savons que cela ne peut pas faire trop de choses.
 
-Vous pouvez consulter [ce site web](https://lgbt-cn.org/page/en-GB.html) pour obtenir plus d'information.
+Vous pouvez consulter [ce site web](https://lgbt-cn.github.io/page/fr-FR.html) pour obtenir plus d'information.
 
 ## Comment nous rejoindre
 
