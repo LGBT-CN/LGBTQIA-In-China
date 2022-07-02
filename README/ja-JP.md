@@ -11,7 +11,7 @@
 
 例え塵が積もっても山とならないかもしれませんが、このプロジェクト(レポジトリ)では、LGBTQIAのプログラマーの間に自由と平等への追求を喚起します。
 
-詳しくは[こちらのサイト](https://lgbt-cn.github.io/page/ja-JP.html)
+詳しくは[こちらのサイト](https://lgbt-cn.github.io/page/en-GB.html)
 
 ## 参加方法
 
