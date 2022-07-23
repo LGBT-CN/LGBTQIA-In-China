@@ -146,6 +146,7 @@
 - [Lumine Zhao](https://github.com/SunsetShimme)
 - [Xiao_Jin](https://github.com/jinzhijie)
 - [ChuishenX](https://github.com/ChuishenX)
+- [Alex3236](https://github.com/alex3236)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
