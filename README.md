@@ -148,6 +148,7 @@
 - [ChuishenX](https://github.com/ChuishenX)
 - [Alex3236](https://github.com/alex3236)
 - [Nofated](https://github.com/Nofated095)
+- [Yang](https://github.com/Yang-Fly)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
