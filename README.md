@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 115 人签署！
+已有 116 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -148,6 +148,7 @@
 - [Alex3236](https://github.com/alex3236)
 - [Nofated](https://github.com/Nofated095)
 - [Yang](https://github.com/Yang-Fly)
+- [Mason](https://github.com/JohnMasoner)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
