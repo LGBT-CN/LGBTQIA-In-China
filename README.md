@@ -149,6 +149,7 @@
 - [Nofated](https://github.com/Nofated095)
 - [Yang](https://github.com/Yang-Fly)
 - [Mason](https://github.com/JohnMasoner)
+- [XiaoheiOwO](https://github.com/XiaoheiOwO)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
