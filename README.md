@@ -151,6 +151,7 @@
 - [Yang](https://github.com/Yang-Fly)
 - [Mason](https://github.com/JohnMasoner)
 - [XiaoheiOwO](https://github.com/XiaoheiOwO)
+- [Misaka10072🍥](https://github.com/sjzyQwQ)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
