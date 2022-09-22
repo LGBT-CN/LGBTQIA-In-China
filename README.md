@@ -75,7 +75,7 @@
 - [Rabbit0w0](https://github.com/Rabbit0w0)
 - [Restent Ou](https://github.com/Restent)
 - [Moycat](https://github.com/moycat)
-- [FragileNeko](https://github.com/Cattttttttt)
+- [猫猫](https://github.com/Cattttttttt)
 - [BBleae](https://github.com/BBleae)
 - [ChenYihan](https://github.com/ChenYihan2006)
 - [NekoKage](https://github.com/neko-kage)
