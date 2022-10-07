@@ -154,6 +154,7 @@
 - [Misaka10072🍥](https://github.com/sjzyQwQ)
 - [SoulGateKey](https://github.com/SoulGateKey)
 - [TagBug](https://github.com/tagbug)
+- [MineCreeper86](https://github.com/MineCreeper86)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
