@@ -154,6 +154,7 @@
 - [SoulGateKey](https://github.com/SoulGateKey)
 - [TagBug](https://github.com/tagbug)
 - [MineCreeper86](https://github.com/MineCreeper86)
+- [WUTONK](https://github.com/WUTONK)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
