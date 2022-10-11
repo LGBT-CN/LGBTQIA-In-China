@@ -156,6 +156,7 @@
 - [TagBug](https://github.com/tagbug)
 - [MineCreeper86](https://github.com/MineCreeper86)
 - [WUTONK](https://github.com/WUTONK)
+- [NiuFuyu(NiuFuyu855)](https://github.com/NiuFuyu855)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
