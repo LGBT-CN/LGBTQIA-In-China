@@ -157,6 +157,7 @@
 - [MineCreeper86](https://github.com/MineCreeper86)
 - [WUTONK](https://github.com/WUTONK)
 - [NiuFuyu(NiuFuyu855)](https://github.com/NiuFuyu855)
+- [YuzhenQin](https://github.com/YuzhenQin)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
