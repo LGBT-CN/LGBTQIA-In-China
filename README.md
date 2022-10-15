@@ -68,6 +68,7 @@
 - [AkigawaRinko](https://github.com/AkigawaRinko)
 - [ChenCyl](https://github.com/ChenCyl)
 - [HackerRouter](https://github.com/HackerRouter)
+- [Rerange](https://github.com/Quandong-Zhang)
 - [Mashirl](https://github.com/Mashirl)
 - [tianheg](https://github.com/tianheg)
 - [SaoYan](https://github.com/SaoYan)
