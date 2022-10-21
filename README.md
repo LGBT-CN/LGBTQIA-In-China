@@ -159,6 +159,7 @@
 - [WUTONK](https://github.com/WUTONK)
 - [NiuFuyu(NiuFuyu855)](https://github.com/NiuFuyu855)
 - [YuzhenQin](https://github.com/YuzhenQin)
+- [Big_Cake](https://github.com/Big-Cake-jpg)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
