@@ -163,6 +163,7 @@
 - [社会易姐QwQ](https://github.com/SocialSisterYi)
 - [dannis999](https://github.com/dannis999)
 - [1ris](https://github.com/Erica-Iris)
+- [李晨曦](https://github.com/Lee-Dawn)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
