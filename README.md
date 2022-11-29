@@ -165,6 +165,7 @@
 - [李晨曦](https://github.com/Lee-Dawn)
 - [FANGYU宇](https://github.com/fangyugit)
 - [Rusmere](https://github.com/Rusmere)
+- [Souiken](https://github.com/Souiken)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
