@@ -167,6 +167,7 @@
 - [FANGYU宇](https://github.com/fangyugit)
 - [Rusmere](https://github.com/Rusmere)
 - [Souiken](https://github.com/Souiken)
+- [夏鸢>w<](https://github.com/LittleXiaYuan)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
