@@ -167,6 +167,7 @@
 - [Rusmere](https://github.com/Rusmere)
 - [Souiken](https://github.com/Souiken)
 - [夏鸢>w<](https://github.com/LittleXiaYuan)
+- [伊緻幻IoriMaboroshi](https://github.com/IoriMaboroshi)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
