@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 135 人签署！
+已有 136 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -169,6 +169,7 @@
 - [Souiken](https://github.com/Souiken)
 - [夏鸢>w<](https://github.com/LittleXiaYuan)
 - [伊緻幻IoriMaboroshi](https://github.com/IoriMaboroshi)
+- [Paperbab](https://github.com/Paperbab)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
