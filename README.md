@@ -168,6 +168,7 @@
 - [Souiken](https://github.com/Souiken)
 - [夏鸢>w<](https://github.com/LittleXiaYuan)
 - [伊緻幻IoriMaboroshi](https://github.com/IoriMaboroshi)
+- [Paperbab](https://github.com/Paperbab)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
