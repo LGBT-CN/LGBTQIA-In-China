@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 117 人签署！
+已有 137 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -68,14 +68,15 @@
 - [AkigawaRinko](https://github.com/AkigawaRinko)
 - [ChenCyl](https://github.com/ChenCyl)
 - [HackerRouter](https://github.com/HackerRouter)
+- [Rerange](https://github.com/Quandong-Zhang)
 - [Mashirl](https://github.com/Mashirl)
 - [tianheg](https://github.com/tianheg)
 - [SaoYan](https://github.com/SaoYan)
 - [StudentMain](https://github.com/studentmain)
 - [Rabbit0w0](https://github.com/Rabbit0w0)
-- [Restent Ou](https://github.com/Restent)
+- [Restent Ou](https://github.com/SliverRiver327)
 - [Moycat](https://github.com/moycat)
-- [FragileNeko](https://github.com/Cattttttttt)
+- [猫猫](https://github.com/Cattttttttt)
 - [BBleae](https://github.com/BBleae)
 - [ChenYihan](https://github.com/ChenYihan2006)
 - [NekoKage](https://github.com/neko-kage)
@@ -151,6 +152,25 @@
 - [Yang](https://github.com/Yang-Fly)
 - [Mason](https://github.com/JohnMasoner)
 - [XiaoheiOwO](https://github.com/XiaoheiOwO)
+- [Misaka10072🍥](https://github.com/sjzyQwQ)
+- [SoulGateKey](https://github.com/SoulGateKey)
+- [TagBug](https://github.com/tagbug)
+- [MineCreeper86](https://github.com/MineCreeper86)
+- [WUTONK](https://github.com/WUTONK)
+- [NiuFuyu(NiuFuyu855)](https://github.com/NiuFuyu855)
+- [YuzhenQin](https://github.com/YuzhenQin)
+- [Big_Cake](https://github.com/Big-Cake-jpg)
+- [社会易姐QwQ](https://github.com/SocialSisterYi)
+- [dannis999](https://github.com/dannis999)
+- [1ris](https://github.com/Erica-Iris)
+- [李晨曦](https://github.com/Lee-Dawn)
+- [FANGYU宇](https://github.com/fangyugit)
+- [Rusmere](https://github.com/Rusmere)
+- [Souiken](https://github.com/Souiken)
+- [夏鸢>w<](https://github.com/LittleXiaYuan)
+- [伊緻幻IoriMaboroshi](https://github.com/IoriMaboroshi)
+- [Paperbab](https://github.com/Paperbab)
+- [DreamOneX](https://github.com/DreamOneX)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
