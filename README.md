@@ -171,6 +171,7 @@
 - [伊緻幻IoriMaboroshi](https://github.com/IoriMaboroshi)
 - [Paperbab](https://github.com/Paperbab)
 - [DreamOneX](https://github.com/DreamOneX)
+- [xBoyMinemc](https://github.com/xBoyminemc)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
@@ -191,6 +192,7 @@
 |你有反对同性恋的自由吗？| 水杉无水（公众号）|[原文链接](https://mp.weixin.qq.com/s?__biz=MzIyNjM2NzYyMQ==&mid=2247483877&idx=1&sn=6d9352ce91e27efccf8dfb51f5dba71e)|[备份链接](/post/你有反对同性恋的自由吗？.md)| [Telegraph](https://telegra.ph/%E4%BD%A0%E6%9C%89%E5%8F%8D%E5%AF%B9%E5%90%8C%E6%80%A7%E6%81%8B%E7%9A%84%E8%87%AA%E7%94%B1%E5%90%97-04-07)<br>[ArchiveToday](https://archive.is/IuALY#)|
 |2019 年 10 月 28 日在佛山一中发生的一切| [lixiang810](https://github.com/lixiang810)，即密涅瓦猫头鹰（知乎） |[原文链接](https://zhuanlan.zhihu.com/p/302444058)|[校订链接](/post/2019年10月28日在佛山一中发生的一切.md)| N/A |
 |保护跨性别群体不是一句空口号| [Nofated](https://github.com/Nofated095)|[原文链接](/post/保护跨性别群体不是一句空口号.md)|[备份链接](/post/保护跨性别群体不是一句空口号.md)| N/A |
+|2022上海疫情下411医院srs记录｜mtf | 花落www (知乎)|[原文链接](https://zhuanlan.zhihu.com/p/495654864)|[备份链接](/post/2022%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E4%B8%8B411%E5%8C%BB%E9%99%A2srs%E8%AE%B0%E5%BD%95%EF%BD%9Cmtf.md)| [ArchiveToday](https://archive.md/4rA6H) |
 
 ## 构建者
 
