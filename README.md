@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 138 人签署！
+已有 141 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -173,8 +173,11 @@
 - [DreamOneX](https://github.com/DreamOneX)
 - [xBoyMinemc](https://github.com/xBoyminemc)
 - [linlinzzo](https://github.com/linlinzzo)
-  <!-- END LGBT-CN SIGNATURE -->
-  <!-- 请不要更改上方的标签 -->
+- [Molyuu](https://github.com/Molyuu)
+- [xtex](https://xtexx.ml/)
+- [Νίκκμχ](https://github.com/nikkuuwux)
+<!-- END LGBT-CN SIGNATURE -->
+<!-- 请不要更改上方的标签 -->
 
 ## 文章
 
@@ -194,6 +197,8 @@
 |2019 年 10 月 28 日在佛山一中发生的一切| [lixiang810](https://github.com/lixiang810)，即密涅瓦猫头鹰（知乎） |[原文链接](https://zhuanlan.zhihu.com/p/302444058)|[校订链接](/post/2019年10月28日在佛山一中发生的一切.md)| N/A |
 |保护跨性别群体不是一句空口号| [Nofated](https://github.com/Nofated095)|[原文链接](/post/保护跨性别群体不是一句空口号.md)|[备份链接](/post/保护跨性别群体不是一句空口号.md)| N/A |
 |2022上海疫情下411医院srs记录｜mtf | 花落www (知乎)|[原文链接](https://zhuanlan.zhihu.com/p/495654864)|[备份链接](/post/2022%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E4%B8%8B411%E5%8C%BB%E9%99%A2srs%E8%AE%B0%E5%BD%95%EF%BD%9Cmtf.md)| [ArchiveToday](https://archive.md/4rA6H) |
+|《日惹原则》问与答|[日惹原则](https://yogyakartaprinciples.org/principles-ch/)|[原文链接](https://yogyakartaprinciples.org/principles-ch/about/)| N/A |[WebArchive](https://web.archive.org/web/20220720161401/http://yogyakartaprinciples.org/principles-ch/about/)<br>[ArchiveToday](https://archive.ph/Dsu2u)|
+
 
 ## 构建者
 
