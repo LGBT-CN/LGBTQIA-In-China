@@ -175,6 +175,7 @@
 - [Molyuu](https://github.com/Molyuu)
 - [xtex](https://xtexx.ml/)
 - [Νίκκμχ](https://github.com/nikkuuwux)
+- [WeepingDogel](https://github.com/WeepingDogel)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
