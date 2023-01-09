@@ -172,6 +172,7 @@
 - [Paperbab](https://github.com/Paperbab)
 - [DreamOneX](https://github.com/DreamOneX)
 - [xBoyMinemc](https://github.com/xBoyminemc)
+- [xtex](https://xtexx.ml/)
 - [Νίκκμχ](https://github.com/nikkuuwux)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
