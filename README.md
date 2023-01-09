@@ -172,6 +172,7 @@
 - [Paperbab](https://github.com/Paperbab)
 - [DreamOneX](https://github.com/DreamOneX)
 - [xBoyMinemc](https://github.com/xBoyminemc)
+- [linlinzzo](https://github.com/linlinzzo)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
