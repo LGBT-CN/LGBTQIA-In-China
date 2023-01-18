@@ -12,4 +12,4 @@ jobs:
           organization: LGBT-CN
           team: Friends
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
