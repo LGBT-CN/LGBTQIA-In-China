@@ -177,6 +177,7 @@
 - [Νίκκμχ](https://github.com/nikkuuwux)
 - [WeepingDogel](https://github.com/WeepingDogel)
 - [ZYGLQexplorer](https://github.com/ZYGLQexplorer)
+- [WorldHim](https://github.com/WorldHim)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
