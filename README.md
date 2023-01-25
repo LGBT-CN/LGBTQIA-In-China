@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 145 人签署！
+已有 146 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -179,6 +179,7 @@
 - [WeepingDogel](https://github.com/WeepingDogel)
 - [ZYGLQexplorer](https://github.com/ZYGLQexplorer)
 - [WorldHim](https://github.com/WorldHim)
+- [RetsuAkiko-SG](https://github.com/retsuakiko-sg)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
