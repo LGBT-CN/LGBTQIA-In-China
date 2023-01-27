@@ -180,6 +180,7 @@
 - [ZYGLQexplorer](https://github.com/ZYGLQexplorer)
 - [WorldHim](https://github.com/WorldHim)
 - [RetsuAkiko-SG](https://github.com/retsuakiko-sg)
+- [Léana 江](https://github.com/leana8959)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
