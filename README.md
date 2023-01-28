@@ -180,6 +180,7 @@
 - [WorldHim](https://github.com/WorldHim)
 - [RetsuAkiko-SG](https://github.com/retsuakiko-sg)
 - [Léana 江](https://github.com/leana8959)
+- [lixiang810](https://github.com/lixiang810)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
