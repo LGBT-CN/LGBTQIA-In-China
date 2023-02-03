@@ -182,6 +182,7 @@
 - [Léana 江](https://github.com/leana8959)
 - [lixiang810](https://github.com/lixiang810)
 - [Bigsk](https://www.ianxia.com)
+- [CyuuZ! And Zxgaer](https://github.com/dorary1)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
