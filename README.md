@@ -181,7 +181,7 @@
 - [WorldHim](https://github.com/WorldHim)
 - [RetsuAkiko-SG](https://github.com/retsuakiko-sg)
 - [Léana 江](https://github.com/leana8959)
-- [lixiang810](https://github.com/lixiang810)
+- [北雁云依](https://github.com/BeiyanYunyi)
 - [Bigsk](https://www.ianxia.com)
 - [CyuuZ! And Zxgaer](https://github.com/dorary1)
 - [陈XX](https://github.com/woshishabii)
