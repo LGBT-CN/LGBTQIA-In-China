@@ -184,6 +184,7 @@
 - [Bigsk](https://www.ianxia.com)
 - [CyuuZ! And Zxgaer](https://github.com/dorary1)
 - [陈XX](https://github.com/woshishabii)
+- [白雨楠🍥](https://github.com/Shiroiame-Kusu)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
