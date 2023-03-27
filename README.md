@@ -187,6 +187,7 @@
 - [白雨楠🍥](https://github.com/Shiroiame-Kusu)
 - [Chengnan](https://github.com/chengnan049)
 - [🪄 山海魔法师](https://github.com/iuu6)
+- [Cryolitia🍥](https://github.com/Cryolitia)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
