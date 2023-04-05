@@ -188,6 +188,7 @@
 - [Chengnan](https://github.com/chengnan049)
 - [🪄 山海魔法师](https://github.com/iuu6)
 - [Cryolitia🍥](https://github.com/Cryolitia)
+- [XiaMoHuaHuo_CN](https://github.com/XiaMoHuaHuo-CN)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
