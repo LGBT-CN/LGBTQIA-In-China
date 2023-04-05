@@ -189,6 +189,7 @@
 - [Chengnan](https://github.com/chengnan049)
 - [🪄 山海魔法师](https://github.com/iuu6)
 - [Cryolitia🍥](https://github.com/Cryolitia)
+- [TSaltedfishKing](https://github.com/TSaltedfishKing)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
