@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 155 人签署！
+已有 156 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -190,6 +190,7 @@
 - [🪄 山海魔法师](https://github.com/iuu6)
 - [Cryolitia🍥](https://github.com/Cryolitia)
 - [TSaltedfishKing](https://github.com/TSaltedfishKing)
+- [XiaMoHuaHuo_CN](https://github.com/XiaMoHuaHuo-CN)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
