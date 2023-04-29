@@ -190,6 +190,7 @@
 - [🪄 山海魔法师](https://github.com/iuu6)
 - [Cryolitia🍥](https://github.com/Cryolitia)
 - [XiaMoHuaHuo_CN](https://github.com/XiaMoHuaHuo-CN)
+- [Ricky8955555](https://rkmiao.eu.org)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
