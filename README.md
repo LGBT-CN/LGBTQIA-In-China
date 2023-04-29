@@ -191,6 +191,7 @@
 - [XiaMoHuaHuo_CN](https://github.com/XiaMoHuaHuo-CN)
 - [Ricky8955555](https://rkmiao.eu.org)
 - [朝倉初雪|Asakura hatsuyuki](https://github.com/hatsuyuki2333)
+- [LiangBurs](https://cnmobile.link)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
