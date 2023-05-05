@@ -189,6 +189,7 @@
 - [Chengnan](https://github.com/chengnan049)
 - [🪄 山海魔法师](https://github.com/iuu6)
 - [Cryolitia🍥](https://github.com/Cryolitia)
+- [TSaltedfishKing](https://github.com/TSaltedfishKing)
 - [XiaMoHuaHuo_CN](https://github.com/XiaMoHuaHuo-CN)
 - [Ricky8955555](https://rkmiao.eu.org)
 - [朝倉初雪|Asakura hatsuyuki](https://github.com/hatsuyuki2333)
