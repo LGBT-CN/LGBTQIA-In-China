@@ -193,6 +193,7 @@
 - [Ricky8955555](https://rkmiao.eu.org)
 - [朝倉初雪|Asakura hatsuyuki](https://github.com/hatsuyuki2333)
 - [LiangBurs](https://cnmobile.link)
+- [obaby](http://oba.by)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
