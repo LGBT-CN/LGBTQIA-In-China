@@ -219,7 +219,6 @@
 |《日惹原则》问与答|[日惹原则](https://yogyakartaprinciples.org/principles-ch/)|[原文链接](https://yogyakartaprinciples.org/principles-ch/about/)| N/A |[WebArchive](https://web.archive.org/web/20220720161401/http://yogyakartaprinciples.org/principles-ch/about/)<br>[ArchiveToday](https://archive.ph/Dsu2u)|
 |只有跨性别者知道的世界|[在逃猫咪乌和安](https://www.zhihu.com/people/yamamoto)|[原文链接](https://zhuanlan.zhihu.com/p/20511057)|[备份链接](/post/只有跨性别者知道的世界.md)|[WebArchive](https://web.archive.org/web/20230106044746/https://zhuanlan.zhihu.com/p/20511057)|
 |在跨性别青少年门诊，目睹中国家庭的撕裂|真实故事计划（公众号）|[原文链接](https://mp.weixin.qq.com/s/B98WfvjXm55WX2so4zpYSw)|[备份链接](/post/在跨性别青少年门诊，目睹中国家庭的撕裂.md)|[ArchiveToday](https://archive.ph/GRNjp)|
-|LGBTQIA|[obaby@mars](http://oba.by)|[原文链接]([https://mp.weixin.qq.com/s/B98WfvjXm55WX2so4zpYSw](https://h4ck.org.cn/2023/05/lgbtqia/))|[备份链接](/post/LGBTQIA.md)|N/A|
 
 ## 构建者
 
