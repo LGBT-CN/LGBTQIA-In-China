@@ -195,6 +195,7 @@
 - [朝倉初雪|Asakura hatsuyuki](https://github.com/hatsuyuki2333)
 - [LiangBurs](https://cnmobile.link)
 - [obaby](http://oba.by)
+- [宇创小涵(yuhan2680)](https://github.com/yuhan2680)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
