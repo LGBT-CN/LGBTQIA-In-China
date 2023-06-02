@@ -197,7 +197,8 @@
 - [obaby](http://oba.by)
 - [宇创小涵(yuhan2680)](https://github.com/yuhan2680)
 - [小太](https://github.com/SatoSouta)
-<!-- END LGBT-CN SIGNATURE -->
+- [Suzuki Chinatsu×Suzumiya🍥](https://github.com/ChinatsuSuzuki6)
+<!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
 ## 文章
