@@ -198,6 +198,7 @@
 - [宇创小涵(yuhan2680)](https://github.com/yuhan2680)
 - [小太](https://github.com/SatoSouta)
 - [Suzuki Chinatsu×Suzumiya🍥](https://github.com/ChinatsuSuzuki6)
+- [ohmyga](https://github.com/bakaomg)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
