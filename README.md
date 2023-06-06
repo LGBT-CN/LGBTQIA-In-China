@@ -201,6 +201,7 @@
 - [Suzuki Chinatsu×Suzumiya🍥](https://github.com/ChinatsuSuzuki6)
 - [ohmyga](https://github.com/bakaomg)
 - [27Onion](https://github.com/onion108)
+- [Melusine](https://github.com/AI-Channel)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
