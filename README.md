@@ -203,6 +203,7 @@
 - [27Onion](https://github.com/onion108)
 - [Melusine](https://github.com/AI-Channel)
 - [Lead🍥](https://github.com/BreakingLead)
+- [Maxwell Ding](https://github.com/365cent)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
