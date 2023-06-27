@@ -204,6 +204,7 @@
 - [Melusine](https://github.com/AI-Channel)
 - [Lead🍥](https://github.com/BreakingLead)
 - [Maxwell Ding](https://github.com/365cent)
+- [XiJinping1984](https://github.com/XiJinping1984))
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
