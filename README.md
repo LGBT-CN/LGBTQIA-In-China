@@ -205,6 +205,7 @@
 - [Lead🍥](https://github.com/BreakingLead)
 - [Maxwell Ding](https://github.com/365cent)
 - [MoeMagicMango](https://github.com/moyoez)
+- [Maynormoe](https://github.com/maynormoe)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
