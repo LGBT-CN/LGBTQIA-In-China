@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 192 人签署！
+已有 194 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -204,6 +204,8 @@
 - [Melusine](https://github.com/AI-Channel)
 - [Lead🍥](https://github.com/BreakingLead)
 - [Maxwell Ding](https://github.com/365cent)
+- [MoeMagicMango](https://github.com/moyoez)
+- [RostHogsa](https://github.com/Rost-Hogsa33)
 - [The Nanami](https://github.com/NanamiNakano)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
