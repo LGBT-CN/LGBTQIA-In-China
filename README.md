@@ -208,6 +208,7 @@
 - [ChaosAttractor](https://github.com/lostattractor)
 - [The Nanami](https://github.com/NanamiNakano)
 - [little-sheepycn](https://github.com/little-sheepycn)
+- [sysROM](https://github.com/sysROM)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
