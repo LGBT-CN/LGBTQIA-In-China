@@ -210,6 +210,7 @@
 - [The Nanami](https://github.com/NanamiNakano)
 - [little-sheepycn](https://github.com/little-sheepycn)
 - [sysROM](https://github.com/sysROM)
+- [Integral](https://github.com/Integral-Tech)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
