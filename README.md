@@ -211,6 +211,7 @@
 - [sysROM](https://github.com/sysROM)
 - [Integral](https://github.com/Integral-Tech)
 - [Runxi Yu](https://github.com/runxiyu)
+- [剧毒的KCN](https://github.com/JDDKCN)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
