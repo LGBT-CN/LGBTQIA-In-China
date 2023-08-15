@@ -243,5 +243,4 @@
 
 
 ## 构建者
-
 ![Contributors](https://contrib.rocks/image?repo=LGBT-CN/LGBTQIA-In-China)
