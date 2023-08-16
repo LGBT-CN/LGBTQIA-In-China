@@ -215,7 +215,7 @@
 - [剧毒的KCN](https://github.com/JDDKCN)
 - [Daiyangcheng](https://github.com/Daiyangcheng)
 - [Luochancy](https://github.com/Luochancy)
-- [0x002500](https://github.com/0x002500)
+- [0x002500] (https://github.com/0x002500)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
@@ -243,4 +243,5 @@
 
 
 ## 构建者
+
 ![Contributors](https://contrib.rocks/image?repo=LGBT-CN/LGBTQIA-In-China)
