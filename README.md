@@ -215,6 +215,7 @@
 - [剧毒的KCN](https://github.com/JDDKCN)
 - [Daiyangcheng](https://github.com/Daiyangcheng)
 - [Luochancy](https://github.com/Luochancy)
+- [一只小流浪](https://github.com/YiZhiXiaoLiuLang)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
