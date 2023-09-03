@@ -175,6 +175,7 @@
 - [linlinzzo](https://github.com/linlinzzo)
 - [Molyuu](https://github.com/Molyuu)
 - [xtex](https://xtexx.ml/)
+- [purofle](https://github.com/purofle)
 - [Νίκκμχ](https://github.com/nikkuuwux)
 - [WeepingDogel](https://github.com/WeepingDogel)
 - [ZYGLQexplorer](https://github.com/ZYGLQexplorer)
