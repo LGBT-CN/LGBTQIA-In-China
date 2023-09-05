@@ -38,7 +38,7 @@
 - [Eltrac](https://github.com/BigCoke233)
 - [AcboxSky](https://github.com/sheepbox8646)
 - [AyagawaSeirin](https://github.com/AyagawaSeirin)
-- [Bro-Xun](https://github.com/Bro-Xun)
+- [meow_starmoe](https://github.com/Bro-Xun)
 - [Broca-Phenol](https://github.com/Broca-Phenol)
 - [Sakitami](https://github.com/Sakitami)
 - [Ganxiaozhe](https://github.com/ganxiaozhe)
