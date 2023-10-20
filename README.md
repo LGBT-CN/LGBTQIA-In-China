@@ -43,7 +43,7 @@
 - [Sakitami](https://github.com/Sakitami)
 - [Ganxiaozhe](https://github.com/ganxiaozhe)
 - [LemonPrefect](https://github.com/LemonPrefect)
-- [AmemiyaSigure](https://github.com/AmemiyaSigure)
+- [qyl27](https://github.com/qyl27)
 - [vandarkhlome](https://github.com/megatontech)
 - [KevinZonda](https://github.com/KevinZonda)
 - [Moooebie](https://github.com/Moooebie)
