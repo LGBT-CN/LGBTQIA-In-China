@@ -218,6 +218,7 @@
 - [一只小流浪](https://github.com/YiZhiXiaoLiuLang)
 - [MichaelGNU](https://github.com/Ruaaa1983)
 - [HuaDeity](https://github.com/HuaDeity)
+- [Mai Ooizumi](https://github.com/Mai-Ooizumi)
 - [Ming Yue](https://github.com/mingfengpigeon)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
