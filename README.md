@@ -75,7 +75,7 @@
 - [SaoYan](https://github.com/SaoYan)
 - [StudentMain](https://github.com/studentmain)
 - [Rabbit0w0](https://github.com/Rabbit0w0)
-- [Restent Ou](https://github.com/SliverRiver327)
+- [Restent Ou](https://github.com/gxres042)
 - [Moycat](https://github.com/moycat)
 - [猫猫](https://github.com/Cattttttttt)
 - [BBleae](https://github.com/BBleae)
