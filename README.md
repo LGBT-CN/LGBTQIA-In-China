@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 207 人签署！
+已有 208 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -43,7 +43,7 @@
 - [Sakitami](https://github.com/Sakitami)
 - [Ganxiaozhe](https://github.com/ganxiaozhe)
 - [LemonPrefect](https://github.com/LemonPrefect)
-- [AmemiyaSigure](https://github.com/AmemiyaSigure)
+- [qyl27](https://github.com/qyl27)
 - [vandarkhlome](https://github.com/megatontech)
 - [KevinZonda](https://github.com/KevinZonda)
 - [Moooebie](https://github.com/Moooebie)
@@ -220,6 +220,7 @@
 - [MichaelGNU](https://github.com/Ruaaa1983)
 - [HuaDeity](https://github.com/HuaDeity)
 - [Mai Ooizumi](https://github.com/Mai-Ooizumi)
+- [Ming Yue](https://github.com/mingfengpigeon)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
