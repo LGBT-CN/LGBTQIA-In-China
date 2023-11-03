@@ -221,6 +221,7 @@
 - [HuaDeity](https://github.com/HuaDeity)
 - [Mai Ooizumi](https://github.com/Mai-Ooizumi)
 - [Ming Yue](https://github.com/mingfengpigeon)
+- [谢懿（艺精）](https://github.com/changzongwobu)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
