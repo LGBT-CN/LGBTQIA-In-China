@@ -222,6 +222,7 @@
 - [Mai Ooizumi](https://github.com/Mai-Ooizumi)
 - [Ming Yue](https://github.com/mingfengpigeon)
 - [StreamReader](https://github.com/IOStreamReader)
+- [MoriMeina](https://github.com/MoriMeina)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
