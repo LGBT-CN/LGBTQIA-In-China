@@ -222,6 +222,7 @@
 - [Ming Yue](https://github.com/mingfengpigeon)
 - [StreamReader](https://github.com/IOStreamReader)
 - [MoriMeina](https://github.com/MoriMeina)
+- [Sansan](https://github.com/Himboy1nmc)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
