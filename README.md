@@ -58,7 +58,7 @@
 - [hoochanlon](https://github.com/hoochanlon)
 - [Panedioic](https://github.com/panedioic)
 - [zuorong-zhang](https://github.com/zrzjohn)
-- [Stapx Steve](https://twitter.com/Stapx_Steve)
+- [Stapx Steve](https://twitter.com/Stapx_Happy)
 - [KirisameMisawa](https://github.com/KirisameMisawa)
 - [Sukazyo](https://github.com/Eyre-S)
 - [RainbowBird](https://www.luoling8192.top/)
