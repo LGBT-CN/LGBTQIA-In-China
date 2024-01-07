@@ -225,6 +225,7 @@
 - [MoriMeina](https://github.com/MoriMeina)
 - [Sansan](https://github.com/sansanneko)
 - [MojaveHao](https://github.com/MojaveHao)
+- [BILLOW | HoshinoAya](https://github.com/imbillow)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
