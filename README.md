@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 216 人签署！
+已有 215 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -226,7 +226,6 @@
 - [Sansan](https://github.com/sansanneko)
 - [MojaveHao](https://github.com/MojaveHao)
 - [BILLOW | HoshinoAya](https://github.com/imbillow)
--  [罗俊豪](https://github.com/junhaoroy)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
