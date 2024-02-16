@@ -227,6 +227,7 @@
 - [MojaveHao](https://github.com/MojaveHao)
 - [BILLOW | HoshinoAya](https://github.com/imbillow)
 - [wangcham](https://github.com/wangcham)
+- [GSCSDSUN](https://github.com/GSCSDSUN/)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
