@@ -228,6 +228,7 @@
 - [BILLOW | HoshinoAya](https://github.com/imbillow)
 - [wangcham](https://github.com/wangcham)
 - [gsmabc|雨夏](https://github.com/gsmabc)
+- [Frank Ruan](https://github.com/orange2008)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
