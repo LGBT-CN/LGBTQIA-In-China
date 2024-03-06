@@ -230,6 +230,7 @@
 - [gsmabc|雨夏](https://github.com/gsmabc)
 - [Frank Ruan](https://github.com/orange2008)
 - [Nebu Dr1ft](https://github.com/NebuDr1ft)
+- [Qcai](https://github.com/Qcaid)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
