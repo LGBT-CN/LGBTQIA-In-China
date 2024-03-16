@@ -230,6 +230,7 @@
 - [gsmabc|雨夏](https://github.com/gsmabc)
 - [Frank Ruan](https://github.com/orange2008)
 - [Nebu Dr1ft](https://github.com/NebuDr1ft)
+- [Qcai](https://github.com/Qcaid)
 - [Baka宇宇🍥](https://github.com/bakaxiaoyu)
 - [初時雨](https://github.com/Hatsushigure)
 - [Rioshng·楉笙](https://github.com/Rioshng)
