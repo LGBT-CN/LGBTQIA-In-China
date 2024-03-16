@@ -232,6 +232,7 @@
 - [Nebu Dr1ft](https://github.com/NebuDr1ft)
 - [Baka宇宇🍥](https://github.com/bakaxiaoyu)
 - [初時雨](https://github.com/Hatsushigure)
+- [Rioshng·楉笙](https://github.com/Rioshng)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
