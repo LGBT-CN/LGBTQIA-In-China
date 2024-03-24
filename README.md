@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 224 人签署！
+已有 225 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -229,13 +229,14 @@
 - [wangcham](https://github.com/wangcham)
 - [gsmabc|雨夏](https://github.com/gsmabc)
 - [Frank Ruan](https://github.com/orange2008)
-- [Nebu Dr1ft](https://github.com/NebuDr1ft)
+- [神楽坂 零音](https://github.com/KaguReion)
 - [Qcai](https://github.com/Qcaid)
 - [Baka宇宇🍥](https://github.com/bakaxiaoyu)
 - [初時雨](https://github.com/Hatsushigure)
 - [Rioshng·楉笙](https://github.com/Rioshng)
 - [SkyHigh.徐小涛](https://github.com/SkyHighR)
 - [Lafcadia](https://github.com/Lafcadia)
+- [huan_kong](https://github.com/huankong233)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
