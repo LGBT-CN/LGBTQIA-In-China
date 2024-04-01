@@ -237,6 +237,7 @@
 - [SkyHigh.徐小涛](https://github.com/SkyHighR)
 - [Lafcadia](https://github.com/Lafcadia)
 - [huan_kong](https://github.com/huankong233)
+- [\_Wr\_](https://github.com/at-wr)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
