@@ -180,7 +180,6 @@
 - [WeepingDogel](https://github.com/WeepingDogel)
 - [ZYGLQexplorer](https://github.com/ZYGLQexplorer)
 - [WorldHim](https://github.com/WorldHim)
-- [RetsuAkiko-SG](https://github.com/retsuakiko-sg)
 - [Léana 江](https://github.com/leana8959)
 - [北雁云依](https://github.com/BeiyanYunyi)
 - [Bigsk](https://www.ianxia.com)
@@ -236,6 +235,7 @@
 - [SkyHigh.徐小涛](https://github.com/SkyHighR)
 - [Lafcadia](https://github.com/Lafcadia)
 - [huan_kong](https://github.com/huankong233)
+- [靜默電波 Silent Wave](https://github.com/Si1entW4ve)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
