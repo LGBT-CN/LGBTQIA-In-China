@@ -236,6 +236,7 @@
 - [Lafcadia](https://github.com/Lafcadia)
 - [huan_kong](https://github.com/huankong233)
 - [靜默電波 Silent Wave](https://github.com/Si1entW4ve)
+- [nan2xiao 暔晓](https://github.com/nan2xiao)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
