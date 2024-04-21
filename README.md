@@ -174,7 +174,7 @@
 - [xBoyMinemc](https://github.com/xBoyminemc)
 - [linlinzzo](https://github.com/linlinzzo)
 - [Molyuu](https://github.com/Molyuu)
-- [xtex](https://xtexx.ml/)
+- [xtex](https://xtexx.eu.org/)
 - [purofle](https://github.com/purofle)
 - [Νίκκμχ](https://github.com/nikkuuwux)
 - [WeepingDogel](https://github.com/WeepingDogel)
