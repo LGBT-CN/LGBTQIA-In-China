@@ -10,7 +10,7 @@ jobs:
       - name: Setup S.C.
         id: sc-dl
         run: |
-          wget "https://github.com/LGBT-CN/signature-counter/releases/download/latest/signature-counter"
+          wget "https://github.com/LGBT-CN/signature-counter/releases/latest/download/signature-counter"
           chmod +x ./signature-counter
           chmod +w *
       - name: Run S.C.
