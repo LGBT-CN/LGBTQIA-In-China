@@ -239,7 +239,7 @@
 - [nan2xiao 暔晓](https://github.com/nan2xiao)
 - [SirEnri](https://github.com/sirenri2001)
 - [\_Wr\_](https://github.com/at-wr)
-<!-- 结束 LGBT-CN 签名 -->
+<!-- BEGIN LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
 ## 文章
