@@ -10,13 +10,13 @@ jobs:
       - name: Setup S.C.
         id: sc-dl
         run: |
-          wget "https://github.com/LGBT-CN/signature-counter/releases/download/0.0.1/x86_64-unknown-linux-musl"
-          chmod +x ./x86_64-unknown-linux-musl
+          wget "https://github.com/LGBT-CN/signature-counter/releases/download/latest/signature-counter"
+          chmod +x ./signature-counter
           chmod +w *
       - name: Run S.C.
         run: |
-          ./x86_64-unknown-linux-musl ./README.md
-          rm -f ./x86_64-unknown-linux-musl
+          ./signature-counter ./README.md
+          rm -f ./signature-counter
       - name: Commit S.C.
         run: |
           git config user.name KevinZonda
