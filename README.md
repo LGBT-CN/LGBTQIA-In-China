@@ -242,6 +242,7 @@
 - [yang233](https://github.com/hkyang233)
 - [MoYuanCN](https://moyuancn.vip)
 - [LokmenoWer](https://github.com/LokmenoWer)
+- [MingxuanGame](https://github.com/MingxuanGame)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
