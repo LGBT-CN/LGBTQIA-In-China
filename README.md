@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 209 人签署！
+已有 210 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -242,6 +242,7 @@
 - [yang233](https://github.com/hkyang233)
 - [MoYuanCN](https://moyuancn.vip)
 - [LokmenoWer](https://github.com/LokmenoWer)
+- [Anya Lin](https://github.com/muink)
 - [azurepwq](https://github.com/azurepwq)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
