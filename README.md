@@ -226,7 +226,7 @@
 - [wangcham](https://github.com/wangcham)
 - [gsmabc|雨夏](https://github.com/gsmabc)
 - [Frank Ruan](https://github.com/orange2008)
-- [神楽坂 零音](https://github.com/KaguReion)
+- [一般路过绫音酱_Cecilion](https://github.com/LyCecilion)
 - [Qcai](https://github.com/Qcaid)
 - [Baka宇宇🍥](https://github.com/bakaxiaoyu)
 - [初時雨](https://github.com/Hatsushigure)
