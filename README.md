@@ -244,6 +244,7 @@
 - [LokmenoWer](https://github.com/LokmenoWer)
 - [Anya Lin](https://github.com/muink)
 - [azurepwq](https://github.com/azurepwq)
+- [MM 喵了个](https://github.com/MMmiaolege)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
