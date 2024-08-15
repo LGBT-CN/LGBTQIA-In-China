@@ -270,7 +270,8 @@
 |《日惹原则》问与答|[日惹原则](https://yogyakartaprinciples.org/principles-ch/)|[原文链接](https://yogyakartaprinciples.org/principles-ch/about/)| N/A |[WebArchive](https://web.archive.org/web/20220720161401/http://yogyakartaprinciples.org/principles-ch/about/)<br>[ArchiveToday](https://archive.ph/Dsu2u)|
 |只有跨性别者知道的世界|[在逃猫咪乌和安](https://www.zhihu.com/people/yamamoto)|[原文链接](https://zhuanlan.zhihu.com/p/20511057)|[备份链接](/post/只有跨性别者知道的世界.md)|[WebArchive](https://web.archive.org/web/20230106044746/https://zhuanlan.zhihu.com/p/20511057)|
 |在跨性别青少年门诊，目睹中国家庭的撕裂|真实故事计划（公众号）|[原文链接](https://mp.weixin.qq.com/s/B98WfvjXm55WX2so4zpYSw)|[备份链接](/post/在跨性别青少年门诊，目睹中国家庭的撕裂.md)|[ArchiveToday](https://archive.ph/GRNjp)|
-|我们无法也不需要为自己早就有的性别认同和性取向做任何解释。|[原文链接](https://www.xiaozonglin.cn/show-respect-for-difference/)||[WebArchive](https://web.archive.org/web/20231224004147/https://www.xiaozonglin.cn/show-respect-for-difference/)|
+|我们无法也不需要为自己早就有的性别认同和性取向做任何解释。| [林林](https://www.xiaozonglin.cn/) [GitHub](https://github.com/linlinzzo) |[原文链接](https://www.xiaozonglin.cn/show-respect-for-difference/)| | [WebArchive](https://web.archive.org/web/20231224004147/https://www.xiaozonglin.cn/show-respect-for-difference/)|
+|我有一个同学 | [林林](https://www.xiaozonglin.cn/) [GitHub](https://github.com/linlinzzo)|[原文链接](https://www.xiaozonglin.cn/I-have-a-classmate/) | | [WebArchive](https://web.archive.org/web/20240815143615/https://www.xiaozonglin.cn/I-have-a-classmate/) |
 
 
 ## 构建者
