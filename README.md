@@ -243,6 +243,7 @@
 - [LokmenoWer](https://github.com/LokmenoWer)
 - [Anya Lin](https://github.com/muink)
 - [azurepwq](https://github.com/azurepwq)
+- [MM 喵了个](https://github.com/MMmiaolege)
 - [ReturnZeroGirl](http://www.returnzerogirl.top/)
 - [MingxuanGame](https://github.com/MingxuanGame)
 <!-- END LGBT-CN SIGNATURE -->
