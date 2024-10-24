@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 213 人签署！
+已有 214 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -103,7 +103,7 @@
 - [Suzuya](https://github.com/Suzuya-arch)
 - [ruan4261](https://github.com/ruan4261)
 - [ChengZi](https://github.com/orangeczi)
-- [Yukikawa](https://github.com/TinQlo)
+- [Yukikawa](https://github.com/yukikawas)
 - [Cubik65536](https://cubik65536.top)
 - [bobby285271](https://github.com/bobby285271)
 - [LightQuantum](https://github.com/PhotonQuantum)
@@ -239,7 +239,7 @@
 - [\_Wr\_](https://github.com/at-wr)
 - [Sparrow He](https://github.com/sparrowhe)
 - [yang233](https://github.com/hkyang233)
-- [MoYuanCN](https://moyuancn.vip)
+- [MoYuanCN](https://github.com/MoYuanCN/)
 - [LokmenoWer](https://github.com/LokmenoWer)
 - [Anya Lin](https://github.com/muink)
 - [azurepwq](https://github.com/azurepwq)
@@ -247,6 +247,7 @@
 - [ReturnZeroGirl](http://www.returnzerogirl.top/)
 - [MingxuanGame](https://github.com/MingxuanGame)
 - [Lee](https://github.com/Leetfs)
+- [IXBOB](https://github.com/IXBOB)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
