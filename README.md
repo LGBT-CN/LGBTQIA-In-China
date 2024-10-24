@@ -239,7 +239,7 @@
 - [\_Wr\_](https://github.com/at-wr)
 - [Sparrow He](https://github.com/sparrowhe)
 - [yang233](https://github.com/hkyang233)
-- [MoYuanCN](https://moyuancn.vip)
+- [MoYuanCN](https://github.com/MoYuanCN/)
 - [LokmenoWer](https://github.com/LokmenoWer)
 - [Anya Lin](https://github.com/muink)
 - [azurepwq](https://github.com/azurepwq)
