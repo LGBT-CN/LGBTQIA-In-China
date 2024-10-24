@@ -103,7 +103,7 @@
 - [Suzuya](https://github.com/Suzuya-arch)
 - [ruan4261](https://github.com/ruan4261)
 - [ChengZi](https://github.com/orangeczi)
-- [Yukikawa](https://github.com/TinQlo)
+- [Yukikawa](https://github.com/yukikawas)
 - [Cubik65536](https://cubik65536.top)
 - [bobby285271](https://github.com/bobby285271)
 - [LightQuantum](https://github.com/PhotonQuantum)
