@@ -248,7 +248,7 @@
 - [MingxuanGame](https://github.com/MingxuanGame)
 - [Lee](https://github.com/Leetfs)
 - [IXBOB](https://github.com/IXBOB)
-- [SASAS2](https://github.com/SASAS2)
+- [SASAS2](https://github.com)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
