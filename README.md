@@ -248,6 +248,7 @@
 - [MingxuanGame](https://github.com/MingxuanGame)
 - [Lee](https://github.com/Leetfs)
 - [IXBOB](https://github.com/IXBOB)
+- [千坂神奈子](https://github.com/ChisakaKanako)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
