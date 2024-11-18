@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 215 人签署！
+已有 216 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -249,6 +249,7 @@
 - [Lee](https://github.com/Leetfs)
 - [IXBOB](https://github.com/IXBOB)
 - [JosephLin](https://github.com/Mahironya)
+- [SASAS2](https://github.com/SASAS2)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
