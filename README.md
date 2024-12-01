@@ -33,6 +33,7 @@
 
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN SIGNATURE -->
+- [RuriMitsuki](https://github.com/RuriMitsuki)
 - [Percy](https://github.com/kercily)
 - [Eltrac](https://github.com/BigCoke233)
 - [AcboxSky](https://github.com/sheepbox8646)
