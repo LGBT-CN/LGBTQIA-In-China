@@ -33,7 +33,6 @@
 
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN SIGNATURE -->
-- [RuriMitsuki](https://github.com/RuriMitsuki)
 - [Percy](https://github.com/kercily)
 - [Eltrac](https://github.com/BigCoke233)
 - [AcboxSky](https://github.com/sheepbox8646)
@@ -252,6 +251,7 @@
 - [JosephLin](https://github.com/Mahironya)
 - [SASAS2](https://github.com/SASAS2)
 - [千坂神奈子](https://github.com/ChisakaKanako)
+- [祈/みつき るり🧋](https://github.com/RuriMitsuki)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
