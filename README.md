@@ -251,6 +251,7 @@
 - [JosephLin](https://github.com/Mahironya)
 - [SASAS2](https://github.com/SASAS2)
 - [千坂神奈子](https://github.com/ChisakaKanako)
+- [祈/みつき るり🧋](https://github.com/RuriMitsuki)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
