@@ -217,7 +217,7 @@
 - [MichaelGNU](https://github.com/Ruaaa1983)
 - [HuaDeity](https://github.com/HuaDeity)
 - [Mai Ooizumi](https://github.com/Mai-Ooizumi)
-- [Ming Yue](https://github.com/mingfengpigeon)
+- [humpback gusty](https://github.com/petricavalry)
 - [StreamReader](https://github.com/IOStreamReader)
 - [MoriMeina](https://github.com/MoriMeina)
 - [Sansan](https://github.com/sansanneko)
