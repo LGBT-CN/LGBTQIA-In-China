@@ -258,6 +258,7 @@
 - [Zenflash233](https://github.com/Zenflash233)
 - [Chris233](https://github.com/H-Chris233)
 - [Catherina Grace](https://github.com/Catherina0)
+- [苏阳🍥Nya\_Twisuki](https://github.com/Twisuki)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
