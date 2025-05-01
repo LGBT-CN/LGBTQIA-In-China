@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 221 人签署！
+已有 224 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -109,7 +109,7 @@
 - [LightQuantum](https://github.com/PhotonQuantum)
 - [OriginCode](https://github.com/OriginCode)
 - [YHJMM](https://github.com/yhjmm-303)
-- [Sunyz_Prpr](https://github.com/Sunyz-Prpr)
+- [Seven](https://github.com/realSunyz)
 - [LLLgoyour](https://github.com/LLLgoyour)
 - [RedElectricity](https://github.com/RedElectricity)
 - [Exuanbo](https://github.com/exuanbo)
@@ -254,8 +254,10 @@
 - [祈/みつき るり🧋](https://github.com/RuriMitsuki)
 - [hjx754242756](https://github.com/hjx754242756)
 - [踪天朔](https://github.com/zongtianshuo)
+- [Jes](https://github.com/JesperroO)
+- [Zenflash233](https://github.com/Zenflash233)
+- [Chris233](https://github.com/H-Chris233)
 - [Catherina Grace](https://github.com/Catherina0)
-
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
