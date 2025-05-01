@@ -257,6 +257,7 @@
 - [Jes](https://github.com/JesperroO)
 - [Zenflash233](https://github.com/Zenflash233)
 - [Chris233](https://github.com/H-Chris233)
+- [Catherina Grace](https://github.com/Catherina0)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
