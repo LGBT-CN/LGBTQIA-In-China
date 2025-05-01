@@ -259,6 +259,7 @@
 - [Chris233](https://github.com/H-Chris233)
 - [Catherina Grace](https://github.com/Catherina0)
 - [苏阳🍥Nya\_Twisuki](https://github.com/Twisuki)
+- [AriaQwQ🍥](https://github.com/lyxofficial)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
