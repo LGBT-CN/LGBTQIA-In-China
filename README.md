@@ -261,6 +261,7 @@
 - [苏阳🍥Nya\_Twisuki](https://github.com/Twisuki)
 - [AriaQwQ🍥](https://github.com/lyxofficial)
 - [知式🍥](https://github.com/typezhi)
+- [廿肆 Nix24](https://github.com/Nixie24)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
