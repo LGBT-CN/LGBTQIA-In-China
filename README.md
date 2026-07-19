@@ -224,7 +224,6 @@
 - [BILLOW | HoshinoAya](https://github.com/imbillow)
 - [wangcham](https://github.com/wangcham)
 - [gsmabc|雨夏](https://github.com/gsmabc)
-- [Frank Ruan](https://github.com/orange2008)
 - [一般路过绫音酱_Cecilion](https://github.com/LyCecilion)
 - [Qcai](https://github.com/Qcaid)
 - [Baka宇宇🍥](https://github.com/bakaxiaoyu)
