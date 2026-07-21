@@ -261,7 +261,6 @@
 - [苏阳🍥Nya\_Twisuki](https://github.com/Twisuki)
 - [AriaQwQ🍥](https://github.com/lyxofficial)
 - [知式🍥](https://github.com/typezhi)
-- [Ciallo0721-cmd](https://github.com/ciallo0721-cmd)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
@@ -289,7 +288,7 @@
 |在跨性别青少年门诊，目睹中国家庭的撕裂|真实故事计划（公众号）|[原文链接](https://mp.weixin.qq.com/s/B98WfvjXm55WX2so4zpYSw)|[备份链接](/post/在跨性别青少年门诊，目睹中国家庭的撕裂.md)|[ArchiveToday](https://archive.ph/GRNjp)|
 |我们无法也不需要为自己早就有的性别认同和性取向做任何解释。| [林林](https://www.xiaozonglin.cn/) [GitHub](https://github.com/linlinzzo) |[原文链接](https://www.xiaozonglin.cn/show-respect-for-difference/)| | [WebArchive](https://web.archive.org/web/20231224004147/https://www.xiaozonglin.cn/show-respect-for-difference/)|
 |我有一个同学 | [林林](https://www.xiaozonglin.cn/) [GitHub](https://github.com/linlinzzo)|[原文链接](https://www.xiaozonglin.cn/I-have-a-classmate/) | | [WebArchive](https://web.archive.org/web/20240815143615/https://www.xiaozonglin.cn/I-have-a-classmate/) |
-| 什么是 LGBT？——从心理学理解性少数群体的存在 | [ciallo0721-cmd](https://github.com/ciallo0721-cmd) | [原文链接](https://ciallo0721-cmd.top/blog/心理学/64/) | [备份链接](/post/什么是LGBT——从心理学理解性少数群体的存在.md) | N/A |
+| 什么是 LGBT？——从心理学理解性少数群体的存在 | [绫濑雪绪（Ayase Yukio）](https://github.com/ciallo0721-cmd) | [原文链接](https://ciallo0721-cmd.top/blog/心理学/64/) | [备份链接](/post/什么是LGBT——从心理学理解性少数群体的存在.md) | N/A |
 
 
 ## 构建者
