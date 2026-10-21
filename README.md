@@ -27,7 +27,7 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 228 人签署！
+已有 229 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
@@ -262,6 +262,7 @@
 - [AriaQwQ🍥](https://github.com/lyxofficial)
 - [知式🍥](https://github.com/typezhi)
 - [lyjjl](https://github.com/lyjjl)
+- [CircleCrop](https://github.com/CircleCrop)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
